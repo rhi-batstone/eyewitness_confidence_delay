@@ -1,0 +1,1110 @@
+id,conf_scale,gender,age,video,lineup,lineup_response,condition,accuracy,confidence_bin,response
+R_2OHJIYu8S8o9nHE,100,Female,22,170,170,3,no delay,correct,3,correct id
+R_Ucf0s5RMj3ldiIF,75,Male,26,164,164,3,no delay,incorrect,2,filler id (tp)
+R_2qaUeiwhOfss2Aw,98,Male,34,173,173,5,no delay,correct,3,correct id
+R_1rokRRLuS5hrT64,49,Female,36,170,176,7,no delay,correct,1,correct rejection
+R_2QRGln4GRyaIEJi,41,Female,27,164,164,7,no delay,incorrect,1,incorrect rejection
+R_3HNyuCYFotJdhi0,82,Female,22,176,176,6,no delay,correct,3,correct id
+R_3Hvo8H5JTeabLkW,95,Male,29,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3ptmCqYavs9wvQS,100,Female,30,164,164,6,no delay,correct,3,correct id
+R_3kAk982S9Gwofg8,95,Male,24,173,164,7,no delay,correct,3,correct rejection
+R_e8JyW0khHJd9jZD,13,Female,32,176,170,1,no delay,incorrect,1,filler id (ta)
+R_3KLh9dTyq7wJhN7,70,Female,25,170,170,3,no delay,correct,2,correct id
+R_2bNQB2fYoboVV3A,60,Female,25,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3j7kdIwgFNH4JdR,40,Female,19,164,173,7,no delay,correct,1,correct rejection
+R_OPBdgrjUL03NP0J,100,Male,30,176,170,7,distraction,correct,3,correct rejection
+R_3qg5XRRz6GEUUPT,100,Female,44,173,173,5,distraction,correct,3,correct id
+R_242XE90Q4kc3KOd,80,Male,58,176,170,7,no delay,correct,2,correct rejection
+R_OiYfv6k0SeSChBT,100,Female,31,170,176,7,no delay,correct,3,correct rejection
+R_1BQ7dl3O5NXIM93,70,Female,44,164,164,4,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_4MxeUFw0jZUYwtr,93,Male,34,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_D5A3HSZvmNL25vb,70,Male,30,173,173,3,distraction,incorrect,2,filler id (tp)
+R_1LG8sNxN4JbmoKF,85,Male,29,170,170,3,no delay,correct,3,correct id
+R_W9BFzhspChrLT1L,99,Male,48,176,176,7,distraction,incorrect,3,incorrect rejection
+R_2tle6Fd37jKTzMw,50,Male,34,170,176,7,no delay,correct,1,correct rejection
+R_3iD6GyCp7I4rsFN,95,Female,36,170,170,3,distraction,correct,3,correct id
+R_3R3Dgy3ZJOhu41A,59,Prefer not to say,20,176,176,7,distraction,incorrect,2,incorrect rejection
+R_2q4MzgPG6m5gret,95,Female,41,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_6QhqdA3uvG3q7e1,100,Female,27,176,170,7,no delay,correct,3,correct rejection
+R_1GvS9s0jMfkC3xT,30,Male,45,170,176,1,no delay,incorrect,1,filler id (ta)
+R_27qlJXv9xUaDN0S,100,Male,26,176,176,7,distraction,incorrect,3,incorrect rejection
+R_1l4dHy4RuPLCtkr,85,Female,55,170,170,3,no delay,correct,3,correct id
+R_xnpbI6XDGE7eJUt,100,Male,40,173,164,7,distraction,correct,3,correct rejection
+R_10Yt6XRCdh3UQ8k,91,Male,23,164,164,6,no delay,correct,3,correct id
+R_2qEgOFTOOG43TV0,94,Female,45,176,176,6,distraction,correct,3,correct id
+R_1one6T9aYFQgCGF,60,Female,35,176,176,7,no delay,incorrect,2,incorrect rejection
+R_dbBWkkCIO9iGccp,81,Female,22,173,164,7,no delay,correct,3,correct rejection
+R_4T1dTJoM0mB6JSV,100,Male,30,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2amHuBWSJK6R5Tp,90,Male,29,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_1lfqK6xA5zQxnPq,69,Female,42,173,173,3,no delay,incorrect,2,filler id (tp)
+R_blw6mFZwPh7LKgN,92,Female,26,176,170,4,distraction,incorrect,3,filler id (ta)
+R_2EF9RBGoTvf3Ae2,100,Female,37,164,164,6,no delay,correct,3,correct id
+R_b2E6Y2qIC6DwHPH,100,Female,36,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_12fBCbPMzkm8SdD,62,Male,33,173,164,5,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_ZKoOmYuTO4riazv,51,Male,35,173,164,3,no delay,incorrect,2,filler id (ta)
+R_yJCmrwlNlKm2c3D,100,Male,31,170,170,7,no delay,incorrect,3,incorrect rejection
+R_vAWSFH1GIltaSf7,80,Male,37,176,170,7,distraction,correct,2,correct rejection
+R_OqlYCmBhSPOjGY9,62,Male,39,173,164,3,no delay,incorrect,2,filler id (ta)
+R_2UgOza2dLcd45QD,95,Male,35,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_tXvbpvvF7cn4uMV,90,Male,31,173,173,5,distraction,correct,3,correct id
+R_1jDhKz7bmUI78wl,100,Female,26,176,176,6,distraction,correct,3,correct id
+R_PNDAptEW3sz6prP,24,Male,26,170,176,3,no delay,incorrect,1,filler id (ta)
+R_2pRCa358t7dAqEj,100,Female,23,173,173,5,distraction,correct,3,correct id
+R_cZ3j3OEKsvvVLup,100,Female,28,164,164,6,no delay,correct,3,correct id
+R_2X6Wh3o5fAleB9H,99,Male,25,173,173,5,no delay,correct,3,correct id
+R_2U4NYsjPpcFm4pm,81,Male,37,164,164,7,distraction,incorrect,3,incorrect rejection
+R_28MrIy25jBVxgmb,33,Female,52,164,173,6,no delay,incorrect,1,filler id (ta)
+R_URcBfFa3n1CxPpf,40,Male,27,164,173,6,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_3hEKIS4VPgV12Wt,10,Female,32,173,173,7,distraction,incorrect,1,incorrect rejection
+R_BsOyFpVE9JcRLkl,95,Female,53,164,173,7,no delay,correct,3,correct rejection
+R_scbtvIkFw3EmclH,100,Male,27,176,170,4,no delay,incorrect,3,filler id (ta)
+R_2zjy7dhEL8ZMEbi,94,Male,36,173,173,5,distraction,correct,3,correct id
+R_2to15a6nGwLkXUZ,50,Female,27,164,164,2,distraction,incorrect,1,filler id (tp)
+R_8Aq8Z1YvRM0aiI1,92,Female,46,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_3R1vksmeBBU6Ydk,45,Female,38,170,176,7,no delay,correct,1,correct rejection
+R_2c7NMRsJULFUrVC,75,Male,33,176,170,4,no delay,incorrect,2,filler id (ta)
+R_9ulHyU1j8YbCcQp,100,Male,27,164,173,1,distraction,incorrect,3,filler id (ta)
+R_RaFIvbgrKjGT5UR,77,Female,50,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_AbY7FIQF28a7ByF,0,Female,44,164,173,7,no delay,correct,1,correct rejection
+R_ThjBrXmOfiMGyDT,31,Male,48,173,173,2,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_12m2N7kqYtCzKek,89,Male,28,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2aCWmahwCSYbedV,25,Female,24,170,176,1,no delay,incorrect,1,filler id (ta)
+R_3lY6je4f8WwjhOi,45,Male,29,164,173,6,distraction,incorrect,1,filler id (ta)
+R_2qBPAEvnztsD41M,81,Male,24,173,173,7,distraction,incorrect,3,incorrect rejection
+R_12ck4q81di0jbwJ,76,Female,56,173,164,2,distraction,incorrect,2,filler id (ta)
+R_2YDsGaASUh1GWHn,95,Male,46,164,173,7,no delay,correct,3,correct rejection
+R_9YmmFbE7jwm5tmx,100,Male,33,170,170,7,distraction,incorrect,3,incorrect rejection
+R_ZpEdIO0oFoyEynD,91,Male,41,164,173,2,distraction,incorrect,3,filler id (ta)
+R_1PZyb20vK47PXCd,90,Female,34,164,173,7,distraction,correct,3,correct rejection
+R_1kYOyTARdanO03W,73,Female,26,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_24GFRAyFAJclsak,61,Female,34,164,164,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_1HdTC1Tr2YWpD11,62,Female,22,164,164,6,distraction,correct,2,correct id
+R_sAOcRCGqxAf3L0d,95,Female,26,176,170,4,distraction,incorrect,3,filler id (ta)
+R_1Ny19zlJodBy7cf,90,Female,61,176,176,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_2Bam6lRASW9J1Ge,95,Female,31,164,164,3,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_2xKPqfwH81LQRPj,70,Female,20,164,164,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_3MiN9IvrnGkX37S,94,Female,32,176,176,6,no delay,correct,3,correct id
+R_332MS0jebXCpgXA,50,Female,38,170,176,1,no delay,incorrect,1,filler id (ta)
+R_31bzpNLJP24T8gu,50,Female,38,176,176,6,distraction,correct,1,correct id
+R_1DtL5dLEk4zJhVa,10,Female,51,170,176,7,no delay,correct,1,correct rejection
+R_6tmaue3CPecVTDr,50,Male,28,176,176,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_1i42OBqRbAvLZZw,85,Male,38,164,173,1,no delay,incorrect,3,filler id (ta)
+R_sALP6pTZOFBrO5b,82,Male,47,173,173,5,no delay,correct,3,correct id
+R_3kha4ivSraUn1YR,80,Female,33,164,164,6,no delay,correct,2,correct id
+R_3fNMjViCLKZpiVt,90,Male,47,170,176,6,distraction,incorrect,3,innocent id
+R_T6i4f4MmA3ulBcd,91,Male,65,176,170,7,distraction,correct,3,correct rejection
+R_AKUIJha4aIdbpiF,80,Male,27,173,173,5,distraction,correct,2,correct id
+R_1IN14DbsjGPtuUx,60,Male,25,176,176,5,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_5zNVdXnqjONY96p,71,Female,31,173,173,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_WvZPj99DVtwk6Z3,100,Male,30,170,170,3,distraction,correct,3,correct id
+R_Xp07NYujGmvrF9T,10,Male,33,164,173,5,distraction,incorrect,1,innocent id
+R_12tjZfksL2IMOF7,86,Male,26,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2aWuBjFgQbgYYJF,100,Male,29,173,164,7,no delay,correct,3,correct rejection
+R_2bQrNsAPRejeint,100,Male,49,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_80p7sioLEkDgvkt,30,Male,32,164,173,7,distraction,correct,1,correct rejection
+R_3iL2pgrjqeAQ2ao,50,Female,51,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2zA4xwsl8RXuk54,84,Male,29,164,164,3,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_2wALPpEs9KqKGo2,100,Male,33,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_2sbXi9RyYBb4lNO,80,Male,27,176,170,7,no delay,correct,2,correct rejection
+R_2VOYFfK7BbgL3OP,61,Female,24,173,164,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_3PRmE1rIekHpZnn,68,Male,27,173,173,5,distraction,correct,2,correct id
+R_3NV6IJgB85uYWdY,40,Male,60,170,176,7,distraction,correct,1,correct rejection
+R_tEQkVYXQtjEScuZ,50,Male,34,173,164,7,no delay,correct,1,correct rejection
+R_1lv0QF0jg5BeBj3,85,Male,24,164,164,7,distraction,incorrect,3,incorrect rejection
+R_3el5d6qmZMKLLkw,35,Male,57,164,173,1,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_yIVQbmcTbtyMgwx,30,Male,35,173,164,7,no delay,correct,1,correct rejection
+R_3ivYaNTaBq8exgp,20,Female,35,164,164,7,distraction,incorrect,1,incorrect rejection
+R_2fy3rJbICuJQtFq,75,Female,40,170,176,5,no delay,incorrect,2,filler id (ta)
+R_3MRKUanTb48mjQG,10,Female,33,164,164,5,no delay,incorrect,1,filler id (tp)
+R_24vHb076cVzGuuX,80,Male,30,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_SBmR8VXaTrRnJrH,75,Female,33,176,170,7,no delay,correct,2,correct rejection
+R_1mgXX5uzfBhmQWc,93,Female,67,173,164,3,distraction,incorrect,3,filler id (ta)
+R_5nVds2pFQo0Oc5b,80,Male,39,170,176,7,distraction,correct,2,correct rejection
+R_2y2dULkdRoEl2mK,98,Male,48,173,164,7,no delay,correct,3,correct rejection
+R_uq6NE0MygXvLDUt,31,Male,39,164,173,1,no delay,incorrect,1,filler id (ta)
+R_1NDOqnSBEkjyPL6,80,Male,26,176,170,7,no delay,correct,2,correct rejection
+R_6KUqfGYujDw70jv,75,Male,33,176,176,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_3nr8o24VONyBQ92,52,Male,35,176,176,5,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_3Mzfwqu6njkDiYZ,93,Female,34,173,173,5,no delay,correct,3,correct id
+R_2zim0EW421sgm35,50,Female,26,173,164,3,distraction,incorrect,1,filler id (ta)
+R_1jBcmctvZdum3EL,50,Female,20,170,170,3,no delay,correct,1,correct id
+R_1jpw0cZvtHBEQ9v,55,Male,20,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_3QXeXjjHDGIXZdV,25,Female,59,164,173,2,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_1NsoAcRvNkkLODi,82,Male,35,176,176,7,distraction,incorrect,3,incorrect rejection
+R_29hrwBFhXVOMjS2,95,Female,28,173,173,5,distraction,correct,3,correct id
+R_2cuYTkyR51ctwSe,95,Female,58,164,164,6,no delay,correct,3,correct id
+R_ZIirwrWOHN1BT45,100,Male,60,173,173,5,distraction,correct,3,correct id
+R_3kFdbpbyhuaPywV,82,Female,31,170,170,6,distraction,incorrect,3,filler id (tp)
+R_1j7HxJpcPycFHvS,62,Male,22,173,164,6,no delay,incorrect,2,innocent id
+R_32WpEf8U2Hdhckd,35,Female,25,164,173,7,no delay,correct,1,correct rejection
+R_1BRUSZkTiimUxK1,30,Male,23,170,176,7,no delay,correct,1,correct rejection
+R_erkLDjCgnmI7Elz,30,Male,27,176,170,4,no delay,incorrect,1,filler id (ta)
+R_28RHGZ7vZXTphBG,16,Female,55,173,164,3,no delay,incorrect,1,filler id (ta)
+R_u23bSyg9n2NmQWB,53,Male,37,164,164,6,no delay,correct,2,correct id
+R_24us7ZukmK3YtSv,37,Male,32,176,176,5,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_bgyyDjWm8Aq4l4l,93,Male,27,164,164,6,distraction,correct,3,correct id
+R_3haNPy7OOPQxZR0,70,Female,47,170,176,7,no delay,correct,2,correct rejection
+R_2ZNBVp6nNWR5w2Q,91,Male,28,173,173,5,no delay,correct,3,correct id
+R_W6xtZ5HTJ1oeQg1,80,Female,35,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_BAhrz2GVKhg92w1,100,Female,40,173,164,7,distraction,correct,3,correct rejection
+R_2ZOzZFX9MGh9PLu,55,Female,43,164,164,6,distraction,correct,2,correct id
+R_1LYhldMFSO6AzRz,80,Female,28,176,170,7,no delay,correct,2,correct rejection
+R_1l9s4A6mLTfVq1G,49,Male,54,164,164,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_3G31nCnrJNTHA0Z,50,Female,29,164,164,6,hypothesis disconfirmation,correct,1,correct id
+R_2VxLLNg87YzApG8,1,Female,22,170,176,7,distraction,correct,1,correct rejection
+R_11druqUfaseKQDp,95,Male,46,164,173,7,no delay,correct,3,correct rejection
+R_1pWjiLnCJPbgQOT,85,Female,29,176,176,3,distraction,incorrect,3,filler id (tp)
+R_1nVlrlREHtgm9a1,90,Male,21,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3rG78z1jxweYWpG,90,Male,51,176,176,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_1gARhWUSXTkacmF,86,Female,45,173,164,7,distraction,correct,3,correct rejection
+R_eetfJaxM9NRCbF7,80,Male,31,164,173,7,distraction,correct,2,correct rejection
+R_2frZSePe6fl2OLg,37,Female,25,170,170,7,no delay,incorrect,1,incorrect rejection
+R_32LBlwgngja2KFD,0,Female,26,176,176,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_Cgd5521C2JSTnuV,60,Female,23,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3sykBTZblVrn9xu,71,Female,33,164,173,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_2fuEVSF8dj3tJgR,80,Female,40,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_ulvSNZ4d4VsGSUF,100,Male,32,164,164,6,no delay,correct,3,correct id
+R_2yjDhsgrGWtyUUW,31,Male,64,170,176,5,no delay,incorrect,1,filler id (ta)
+R_TupXv5DC1qCXdjb,90,Female,42,176,176,7,no delay,incorrect,3,incorrect rejection
+R_1MKyAuwUffSehIs,52,Male,29,164,173,7,distraction,correct,2,correct rejection
+R_2rpUycPGJyBWL1A,60,Female,30,170,170,3,no delay,correct,2,correct id
+R_3Gd3O6wPyKdt4JJ,35,Male,38,164,164,3,no delay,incorrect,1,filler id (tp)
+R_5tXDDrSPeBRN2hj,80,Male,47,176,170,7,distraction,correct,2,correct rejection
+R_3MsvRmNvVb16i6m,85,Female,31,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_3JngG3xB08nTdPa,80,Male,49,170,170,3,no delay,correct,2,correct id
+R_1Ffht0142hRoHEw,90,Female,36,170,170,3,distraction,correct,3,correct id
+R_2P5RsE2lPVlAnZI,80,Female,45,170,170,3,distraction,correct,2,correct id
+R_20PauSBEtYnbMwk,82,Female,28,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3ewUAAUEG5t5d3M,100,Male,28,173,173,5,no delay,correct,3,correct id
+R_2OZHbUsqScfE6zX,80,Female,60,170,170,7,distraction,incorrect,2,incorrect rejection
+R_Xt8mBIWHc2NfHfX,95,Female,25,176,170,7,no delay,correct,3,correct rejection
+R_1N5fGHKluQx4jHK,85,Male,25,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3D1tr3qQ8UHs9C2,10,Female,22,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2Y8KmIGVYgTx0Oe,100,Male,22,170,170,3,distraction,correct,3,correct id
+R_1GHOc3NuA1qqklB,82,Female,60,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3CZw4UIk8dCNJat,70,Male,39,176,176,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_t0zGxqrLdO3ONuV,95,Male,41,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_110dydJHkTYmHYl,100,Male,18,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_3PMEc0DqsFgYXK2,75,Female,51,176,170,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_3R41ioydyaNJySC,96,Female,41,176,170,7,distraction,correct,3,correct rejection
+R_12lO7w679YYQDlg,60,Female,27,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3OfaLFNqEXoabCj,91,Male,39,173,173,5,distraction,correct,3,correct id
+R_3lxJ0a1DcMNdMEL,75,Male,46,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_2bUYwOGcN99C7OE,0,Male,30,176,176,7,distraction,incorrect,1,incorrect rejection
+R_ZsCxFnzU94WA8ZX,50,Female,39,173,164,7,hypothesis disconfirmation,correct,1,correct rejection
+R_yJuYpwqBClGtB73,40,Other,23,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2WNmHj53AMyp1oQ,80,Female,43,173,173,5,no delay,correct,2,correct id
+R_1hyBTY79RRozEo1,60,Female,36,176,176,6,distraction,correct,2,correct id
+R_2P282oKhrITyKHi,100,Male,29,164,173,1,distraction,incorrect,3,filler id (ta)
+R_3DnAAtaj6fZBq3v,99,Female,54,176,170,4,no delay,incorrect,3,filler id (ta)
+R_3feMknDVTDaiHO3,70,Male,36,170,176,7,distraction,correct,2,correct rejection
+R_3EXcoAfXmYGGDVG,60,Female,30,164,164,6,no delay,correct,2,correct id
+R_247db5MspzV4B8k,30,Male,29,170,176,5,distraction,incorrect,1,filler id (ta)
+R_1Q0JUz1HVGLrGHt,90,Male,47,170,170,6,distraction,incorrect,3,filler id (tp)
+R_2PsUy2Oyxe6kjoF,35,Female,47,176,176,3,no delay,incorrect,1,filler id (tp)
+R_3NEZ5GXZzJCE1mz,71,Female,40,173,164,7,distraction,correct,2,correct rejection
+R_29oHfe3JrYOHfj3,85,Male,48,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1dKqX0rpHcxrzJY,86,Female,42,176,176,6,distraction,correct,3,correct id
+R_122TCSG1mNUQuuX,88,Female,25,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3EbQYtyhF1UjylS,76,Female,29,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3JzbQlLdI4NVQey,25,Male,50,173,164,7,no delay,correct,1,correct rejection
+R_PSOXGGkr904EXId,70,Female,36,176,170,7,distraction,correct,2,correct rejection
+R_ZgZ1uszXivPkUbD,81,Female,42,164,173,2,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_3eeKAq2UmWFi5Fq,60,Male,37,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1eFveLkbBizHnMg,90,Female,69,176,176,6,distraction,correct,3,correct id
+R_2X5qAu4vnECgCtq,80,Male,25,170,170,3,distraction,correct,2,correct id
+R_2wKB6wvTV1I3R5i,81,Male,22,173,164,2,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_2diJeXK8NGCKXhV,71,Female,61,176,176,6,no delay,correct,2,correct id
+R_AiCR0USFU75X09r,59,Male,35,176,176,6,distraction,correct,2,correct id
+R_1hFETGmIphahJFv,60,Female,38,164,173,5,hypothesis disconfirmation,incorrect,2,innocent id
+R_1GQA0RdiS7s2BWy,92,Female,26,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_AbQCZhjjYX7TEAN,90,Female,36,173,173,5,no delay,correct,3,correct id
+R_1otZpvELMu3Le5Y,41,Female,62,173,164,7,distraction,correct,1,correct rejection
+R_31vzKsB3of69bcs,81,Female,38,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_2TSkRkmfaicg5Bw,52,Female,43,164,173,2,no delay,incorrect,2,filler id (ta)
+R_2P0hWSwNtvEyZZg,70,Male,46,173,173,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_rcCBfosP5MVsNOh,83,Female,57,164,164,2,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_UoQCHERDmTzkSfT,42,Female,36,173,164,2,no delay,incorrect,1,filler id (ta)
+R_3dXNxJFgmouTKGy,90,Male,23,170,176,7,no delay,correct,3,correct rejection
+R_SUiBalVhxu2aUb7,98,Female,31,173,173,5,distraction,correct,3,correct id
+R_2wdCconEAHTLvgS,69,Male,22,173,173,5,no delay,correct,2,correct id
+R_2wSmjzgmDxOLEn3,92,Female,39,176,170,7,distraction,correct,3,correct rejection
+R_332t6XFCfyL8zar,60,Male,61,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2wEstfJwJlWsheP,75,Male,24,170,170,3,distraction,correct,2,correct id
+R_VKnndw2D5RRs1nX,80,Female,64,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_1i4eddWuX1gmpuv,61,Female,23,164,173,4,no delay,incorrect,2,filler id (ta)
+R_38Yd4AfKEyB6uxb,50,Female,22,170,170,5,distraction,incorrect,1,filler id (tp)
+R_yq1PAyWvZm2AJI5,80,Female,63,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_2To32RRSbecuwLS,80,Female,53,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2zHoCDolkYA8gsq,80,Female,61,164,164,7,no delay,incorrect,2,incorrect rejection
+R_3R9hriQlHoMacPb,91,Male,31,164,164,3,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_Z7Tvr5Pto8ff1i9,0,Male,40,170,176,7,distraction,correct,1,correct rejection
+R_2cplfsUK7Q58swm,71,Female,23,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_Wlk6LeAs9wsao1j,99,Male,35,176,176,6,no delay,correct,3,correct id
+R_3oSZ6dznDQr7iws,80,Male,19,176,176,4,no delay,incorrect,2,filler id (tp)
+R_3kfuYRh5276QKZ3,51,Female,36,173,173,5,no delay,correct,2,correct id
+R_3iCmPwDuMjfvUng,25,Female,25,176,170,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1GvLYzKzoft2D8l,31,Female,29,170,170,7,distraction,incorrect,1,incorrect rejection
+R_3j3yXCgpZLXAASD,20,Female,47,173,164,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1OqpmY1aye7IcCn,16,Female,28,164,173,6,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_2z5u6s1nW5IK66E,100,Female,23,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3iElYeflRnqQolv,80,Male,25,170,176,5,no delay,incorrect,2,filler id (ta)
+R_3soW1VxzHwA7bRP,60,Male,34,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_9pCVexsiRsNcmzv,71,Male,18,176,170,7,distraction,correct,2,correct rejection
+R_9Sl6Lq7wWNtS8YV,85,Male,33,173,164,7,no delay,correct,3,correct rejection
+R_3Lcnt6hBIt99VGQ,66,Male,69,173,173,5,distraction,correct,2,correct id
+R_VLjcKUUCOLc7q3n,70,Male,41,164,173,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_2CkOhlyhco1sNLH,39,Female,22,176,176,2,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_1l6QfX7gxrGpBvi,95,Male,29,170,170,3,distraction,correct,3,correct id
+R_1dHbmBRBCtQft8y,86,Male,78,176,176,7,distraction,incorrect,3,incorrect rejection
+R_1ovRQyppqEj17ev,69,Male,46,176,176,2,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_yW1c8DNfTzbfLiN,100,Female,50,176,176,6,no delay,correct,3,correct id
+R_3D56KGuXoAAEtt3,82,Female,29,164,164,6,distraction,correct,3,correct id
+R_1JWlxABqjVDoIvb,82,Female,31,176,176,6,no delay,correct,3,correct id
+R_3nwUTR9KP6xT54p,55,Female,44,173,173,1,distraction,incorrect,2,filler id (tp)
+R_2WHDi6aPZ5DSne6,30,Female,22,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1eQ629l5jp5MF8y,85,Male,33,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_AtHkKv1LTqt6LBf,75,Female,47,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_21pSJSQ22CkDzJq,61,Male,64,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_322THrCCzGNENEJ,51,Female,30,170,176,6,no delay,incorrect,2,innocent id
+R_24wqxxSxpMHS03j,65,Male,27,176,176,6,distraction,correct,2,correct id
+R_1ML4LYk87EJGEb3,99,Male,40,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_2Uhf8JLbFN21c7t,100,Female,41,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_2BbKmEBHgJUDVvF,40,Female,19,173,164,3,no delay,incorrect,1,filler id (ta)
+R_26eDTKUF4RMvSK4,80,Male,32,176,176,2,distraction,incorrect,2,filler id (tp)
+R_3fy3uZb4ucQa9yc,40,Male,24,173,164,7,distraction,correct,1,correct rejection
+R_2wSqS1tVRxCnD3W,62,Female,37,176,170,4,no delay,incorrect,2,filler id (ta)
+R_1GJNxdfnBnjPjY8,100,Female,30,164,173,7,distraction,correct,3,correct rejection
+R_ZBFr4nHQ7c6S8yl,75,Female,36,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_3HiimaB8OUJod2R,40,Female,24,164,164,3,distraction,incorrect,1,filler id (tp)
+R_pnIHWRGIwUwkkvL,53,Male,27,170,170,3,distraction,correct,2,correct id
+R_2pQrVb6f3KDVcs2,60,Male,38,173,164,7,no delay,correct,2,correct rejection
+R_2usnSOmwTAMb014,55,Male,44,170,176,5,no delay,incorrect,2,filler id (ta)
+R_2YycsyMd9g3FMEH,81,Male,23,173,173,5,distraction,correct,3,correct id
+R_4UujZ3J6BMhijT3,75,Female,40,173,173,5,distraction,correct,2,correct id
+R_1DO3LMs7pJwCoKW,100,Female,44,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_28UQIOxuQosX3Ff,50,Female,26,176,170,7,no delay,correct,1,correct rejection
+R_2wAAjk2HzVDs3Vs,64,Female,41,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_BY95Zr6PO8eHz1f,61,Female,59,164,173,2,no delay,incorrect,2,filler id (ta)
+R_cTvAYb8gRQuTnS9,95,Male,34,176,170,4,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_9trgJGGITFAkqvT,26,Male,46,176,176,7,distraction,incorrect,1,incorrect rejection
+R_3hubiMe8gSEXtcE,50,Female,57,164,173,7,distraction,correct,1,correct rejection
+R_RXOG01Rx09JwGqZ,90,Male,35,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1Q5Rb7imvusXxOm,10,Female,20,164,173,1,no delay,incorrect,1,filler id (ta)
+R_3Ehc1ri2eI9VCLm,94,Male,19,176,176,6,no delay,correct,3,correct id
+R_D6TzU9pkfDuetUd,92,Male,27,173,173,5,distraction,correct,3,correct id
+R_2dF8aFOYTI0ct0F,80,Female,24,176,170,7,distraction,correct,2,correct rejection
+R_1jdCWy6c3N0FYDd,82,Male,29,173,164,7,distraction,correct,3,correct rejection
+R_1MqCNn0pvyQe1LH,80,Female,37,173,173,5,no delay,correct,2,correct id
+R_s5aKvCttUs9A5k5,90,Male,33,164,173,7,no delay,correct,3,correct rejection
+R_2abMRSgVjbcFz1F,95,Female,51,173,164,7,distraction,correct,3,correct rejection
+R_33fK3SVGjDqRzhR,80,Female,39,173,173,5,no delay,correct,2,correct id
+R_238qwqVdXYqrEw9,100,Male,53,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_3KI1bLHTCbfFmsS,71,Male,36,170,176,7,no delay,correct,2,correct rejection
+R_26nAowhgF0vRBJV,80,Female,23,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3nOFfmgiMiz4CWW,83,Female,60,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3kNA35eVlsczQHW,100,Female,62,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_rfsqKlAWKixJ3CV,60,Female,21,173,164,7,distraction,correct,2,correct rejection
+R_1GVOKxeJRSOTQsy,14,Male,33,164,164,5,distraction,incorrect,1,filler id (tp)
+R_1GZVrsSfxmHF5og,80,Female,31,173,173,5,distraction,correct,2,correct id
+R_3nOh5AXIKWy5dLa,50,Female,29,164,173,7,distraction,correct,1,correct rejection
+R_1HoaoAeULAmYUrG,88,Female,24,176,170,4,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_1N9TfByw65wxOQZ,100,Female,42,164,164,6,distraction,correct,3,correct id
+R_4M9OH6iFoAViZyN,40,Female,39,170,170,6,distraction,incorrect,1,filler id (tp)
+R_1EiZBxgnjqZEPVW,75,Male,31,164,173,7,no delay,correct,2,correct rejection
+R_2v32dXOoWrHqF1D,50,Male,19,173,173,5,hypothesis disconfirmation,correct,1,correct id
+R_22CXckmgttXlGPt,97,Male,32,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1JUUsVxT2nU0R0y,10,Female,24,176,176,2,no delay,incorrect,1,filler id (tp)
+R_3D8GlBbQmr4vL2e,70,Male,32,164,173,2,no delay,incorrect,2,filler id (ta)
+R_1Ka2lPhl8WpZjr1,75,Male,28,170,170,3,distraction,correct,2,correct id
+R_2V3yer4tqo8ql1i,13,Male,36,170,170,5,distraction,incorrect,1,filler id (tp)
+R_3hiusdXwjQGG9LB,26,Female,37,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1jdeIY6pYeWxKdd,92,Male,36,164,164,6,distraction,correct,3,correct id
+R_3rYdxv3wRLxl2Di,100,Female,23,176,170,7,distraction,correct,3,correct rejection
+R_3flZCfQXiP0z1og,87,Female,52,164,164,7,no delay,incorrect,3,incorrect rejection
+R_3JJARrSM4Sq7XTb,67,Male,31,176,170,4,no delay,incorrect,2,filler id (ta)
+R_sutMmWfzBzTgRdn,100,Male,29,170,170,3,distraction,correct,3,correct id
+R_1ln0sjwsLmrJzjU,10,Male,40,164,173,7,hypothesis disconfirmation,correct,1,correct rejection
+R_8hNHLppCUtZX1ND,85,Female,61,164,164,7,distraction,incorrect,3,incorrect rejection
+R_11XzeKFegYpYmGj,81,Female,35,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_12R5KwnWkKzStgT,50,Female,27,170,170,3,distraction,correct,1,correct id
+R_3Mc9FiJShWCPuxd,92,Female,45,164,173,7,no delay,correct,3,correct rejection
+R_1jrAK5X367qVQg6,91,Male,56,173,173,5,no delay,correct,3,correct id
+R_3lRBgIYymd0LKnS,70,Female,26,170,170,4,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_1Ol6Yv10k7N1uLE,92,Male,53,173,164,7,distraction,correct,3,correct rejection
+R_2TXlCVfN1eWvPaF,73,Male,62,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3oAzC4qMhintle3,76,Male,28,170,176,6,no delay,incorrect,2,innocent id
+R_1d0toZg3sEvrSUX,80,Female,29,176,176,6,no delay,correct,2,correct id
+R_RwMQMRebShGDmUN,70,Male,26,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_3JxtZqTxHvncAXP,98,Female,62,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3Jrr6Ll235E6HuJ,25,Female,48,176,176,6,distraction,correct,1,correct id
+R_3Mrmvt02aOcrXy4,50,Male,38,176,176,7,no delay,incorrect,1,incorrect rejection
+R_3ir8njEiDhrvcZL,55,Female,45,173,173,5,distraction,correct,2,correct id
+R_3rMLnUwigahflk9,40,Male,37,173,164,3,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_3GfxrWi67HfFPI9,83,Male,40,173,164,7,no delay,correct,3,correct rejection
+R_2q1Lv1Gec0D2CBA,80,Female,49,176,170,7,distraction,correct,2,correct rejection
+R_1OGCRdichmCquHw,70,Male,32,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1PdAs2zBcG93fGa,87,Male,58,164,164,7,distraction,incorrect,3,incorrect rejection
+R_0OEhOj9kNVj49W1,40,Female,54,170,170,2,no delay,incorrect,1,filler id (tp)
+R_bm9ldl6kg7mrSbT,75,Male,41,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2EczivkPMamgnrJ,30,Male,40,173,164,3,no delay,incorrect,1,filler id (ta)
+R_XKXjGuEvbaR0wHD,80,Female,27,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_3Rz8q1cB9Dz5Bdl,79,Male,69,173,164,7,distraction,correct,2,correct rejection
+R_1HhRrxOIHCbs5NC,80,Male,38,164,164,7,distraction,incorrect,2,incorrect rejection
+R_1dzcl6Ae9vokYTA,90,Female,53,170,170,3,no delay,correct,3,correct id
+R_3CHjB3a8EN2zEbW,80,Female,23,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2zJ6o1gVDDf3Sb5,70,Female,23,173,173,5,distraction,correct,2,correct id
+R_2uWWGbB3AOwPSmJ,100,Female,25,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_3M9VX2kzMuB6c7m,99,Female,32,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_ZyN8DXcSYw1PJtL,50,Male,63,164,164,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_3iqyUvPnj0aExUj,55,Female,40,170,176,7,no delay,correct,2,correct rejection
+R_3kNhQ1ZeyRHLFR4,10,Male,35,170,176,3,distraction,incorrect,1,filler id (ta)
+R_8GtbPItvcLvRkpr,8,Male,28,176,176,2,distraction,incorrect,1,filler id (tp)
+R_114ThLjFpOXE5Wz,99,Male,37,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1FzcqvNPMl9N6M6,92,Female,33,170,176,7,no delay,correct,3,correct rejection
+R_3rVE1lVAP4tHOZe,99,Male,24,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1gds2bSGOTkGZa9,100,Female,35,176,170,7,no delay,correct,3,correct rejection
+R_2TEJQausnGqFMcd,70,Female,24,173,164,7,no delay,correct,2,correct rejection
+R_268WUAcLQZ3mWDT,30,Male,34,170,176,7,no delay,correct,1,correct rejection
+R_1eyfD2dlfqGDoNW,75,Female,59,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_6LIS1VMNmg68zE5,21,Male,38,173,173,1,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_Z2hz1pCuoEr3ceR,49,Male,23,164,164,7,distraction,incorrect,1,incorrect rejection
+R_1nVlIv0xhPYP2tW,70,Female,27,176,170,7,distraction,correct,2,correct rejection
+R_1BVgA6ueCJQutHc,99,Female,35,173,173,5,no delay,correct,3,correct id
+R_2ZNqniW3SrfS8KD,100,Male,59,173,173,5,no delay,correct,3,correct id
+R_0VfPEP4FyGnzi01,60,Female,42,164,173,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_0Sqz7BHJEQNpQyd,70,Male,35,164,173,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_1HeCI0LH2F4xA3j,98,Male,34,173,164,7,no delay,correct,3,correct rejection
+R_31hm9SvXxg27gvI,90,Male,23,176,176,2,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_2aM4O4yQ02FwXzX,78,Male,29,173,173,5,distraction,correct,2,correct id
+R_8oIpXehqpnWSuHL,90,Female,26,164,164,6,distraction,correct,3,correct id
+R_1YpY0aXoX8EFRLP,100,Male,64,173,173,2,no delay,incorrect,3,filler id (tp)
+R_a2FVhpQDIaJvBUB,84,Male,20,173,173,7,distraction,incorrect,3,incorrect rejection
+R_usp15eLaj6RFcSl,80,Female,53,170,170,3,no delay,correct,2,correct id
+R_3RsZawGAoc0rz7I,67,Male,28,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_yrONy1ect0pKdEt,72,Male,22,173,164,3,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_przGtrmhlUo4t7r,52,Male,45,173,173,7,distraction,incorrect,2,incorrect rejection
+R_2CPyeIYELH3jY3l,70,Male,39,173,164,4,no delay,incorrect,2,filler id (ta)
+R_1QGgBH8do3Q0AqM,50,Male,42,170,170,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_ugmdB0NwNF5VUEF,100,Male,64,176,170,4,distraction,incorrect,3,filler id (ta)
+R_emMfWbPqJnT72Eh,81,Male,29,170,176,6,no delay,incorrect,3,innocent id
+R_Za5HYT0IDHIVdAt,100,Male,31,170,170,3,distraction,correct,3,correct id
+R_bsHnomC87toAXF7,62,Male,28,164,164,3,no delay,incorrect,2,filler id (tp)
+R_2dzOSafwM7lfjI5,50,Female,54,176,170,4,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_30650ZfJLJ4pIT0,67,Male,29,164,164,5,no delay,incorrect,2,filler id (tp)
+R_31uaACYeBydldI5,85,Male,38,173,173,5,no delay,correct,3,correct id
+R_3OGFcKphi0xcKJj,70,Male,44,164,173,7,no delay,correct,2,correct rejection
+R_24jF0325jiOvhlI,50,Female,30,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_242eU3jsUyC1kDU,52,Male,34,173,164,7,distraction,correct,2,correct rejection
+R_PU6t90V0NDuuHe1,80,Female,25,176,176,6,distraction,correct,2,correct id
+R_3Gm5RBfcq9uluzA,60,Female,35,176,170,3,no delay,incorrect,2,innocent id
+R_s6kPDBJCEhJKKqt,71,Female,39,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2fQ7emtFDOplDbP,61,Male,50,164,173,2,no delay,incorrect,2,filler id (ta)
+R_1DXZWcXZwM2Seky,48,Female,36,176,176,6,distraction,correct,1,correct id
+R_11gMClCLvtsFoAb,90,Male,41,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3327fg3vkKYhjTo,74,Male,29,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_2q2ScSvQe4FuMkA,95,Female,29,173,164,7,distraction,correct,3,correct rejection
+R_eS3NWRSVn6NtEpb,75,Male,40,176,170,7,no delay,correct,2,correct rejection
+R_1cUg7AIBrb3fWrN,96,Female,26,176,176,6,no delay,correct,3,correct id
+R_1GBLHXtDkb6b76f,70,Male,28,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_26bE5RYE4Uam44h,40,Male,43,164,164,3,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_2Qo1cHXiOUQol7R,90,Female,72,173,173,5,distraction,correct,3,correct id
+R_1H7VdrddWHLKx9m,78,Female,29,173,164,3,no delay,incorrect,2,filler id (ta)
+R_6XPzC9vilcp0Gid,50,Female,26,176,170,4,no delay,incorrect,1,filler id (ta)
+R_0GO9rayojENIIhz,70,Female,26,164,164,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_3Pk7r2PMDrHPLji,81,Male,44,164,173,7,distraction,correct,3,correct rejection
+R_2CqTIghVmqJozXO,100,Male,36,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_2AEDpnErrbi6ixR,75,Male,35,170,170,3,distraction,correct,2,correct id
+R_1pKhPa9cLZLuHAq,90,Female,22,173,164,7,no delay,correct,3,correct rejection
+R_1d484u4wjPzagZT,60,Female,24,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_3Gr1YPRFxpej1SX,9,Male,38,170,176,1,distraction,incorrect,1,filler id (ta)
+R_DwNG0P0IQcu0vDj,35,Male,47,176,170,1,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_1g2aaZ8ac0GgBAp,80,Female,36,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2OPypdw8uS9Ve6w,100,Male,27,173,173,2,distraction,incorrect,3,filler id (tp)
+R_2dtJ5uGZVzIkePg,40,Female,33,176,176,6,hypothesis disconfirmation,correct,1,correct id
+R_1BRxsnJJWAsfDMu,80,Female,67,176,176,7,no delay,incorrect,2,incorrect rejection
+R_3h9DEFVrJwaIFbm,94,Male,27,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1eqRWoxOu47J5BF,10,Female,45,170,176,7,no delay,correct,1,correct rejection
+R_9M6vcUe4QwwHuKt,30,Male,39,164,164,3,no delay,incorrect,1,filler id (tp)
+R_WAw7dBsypzIZutH,70,Female,62,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_2tl4jJ5Pg0POg3F,70,Female,41,164,173,2,no delay,incorrect,2,filler id (ta)
+R_1n6nhb0yA4PjiSy,72,Female,28,170,170,5,distraction,incorrect,2,filler id (tp)
+R_0CJZoQq8Vp13dcJ,61,Female,23,173,164,3,no delay,incorrect,2,filler id (ta)
+R_p0KXH96jBotWCt3,25,Female,28,176,170,7,distraction,correct,1,correct rejection
+R_uqvCNCOA0C5eRe9,0,Female,40,170,176,7,distraction,correct,1,correct rejection
+R_1kOEwXx2jMkjy1d,65,Male,45,164,164,6,no delay,correct,2,correct id
+R_2uq8e6OsjLLEhdM,75,Male,25,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1MVRzGCvAqMuHIj,95,Male,28,170,176,7,distraction,correct,3,correct rejection
+R_1nOpzEpqdlQ3t4E,51,Male,35,176,176,2,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_yJgqEFRXZoVC493,92,Female,40,164,173,1,no delay,incorrect,3,filler id (ta)
+R_szga5iyMYA7QnMl,80,Female,27,173,173,5,distraction,correct,2,correct id
+R_2TQQkY2wtJePsbE,80,Female,38,164,164,7,distraction,incorrect,2,incorrect rejection
+R_3gT6WI9RPnZaByf,25,Female,70,176,176,4,distraction,incorrect,1,filler id (tp)
+R_2CUqRlvDaIvOS5I,55,Female,47,170,176,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_2fkB6vWK95T0w7P,81,Male,56,173,164,6,no delay,incorrect,3,innocent id
+R_2yaC7TvRqCf5tOU,97,Male,70,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_6thpWdroI5DxNQZ,71,Female,26,164,164,5,no delay,incorrect,2,filler id (tp)
+R_2QMaz6HxXVOkTbl,71,Male,38,164,164,7,distraction,incorrect,2,incorrect rejection
+R_1NC8Yh5F68Fh1h0,85,Female,35,173,173,5,distraction,correct,3,correct id
+R_1HdSBDIRJMVhFc8,78,Male,57,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3ML4YnjSuZO2WHP,72,Male,41,176,170,7,no delay,correct,2,correct rejection
+R_1kOBOGmAAGFt2jw,75,Male,43,173,164,2,no delay,incorrect,2,filler id (ta)
+R_2y7xMKuyf8AE6FP,20,Female,67,176,176,4,distraction,incorrect,1,filler id (tp)
+R_6MxOxVXcXPZz9pn,100,Female,28,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2wB4Wmgt8GyxsWB,39,Male,58,173,173,5,no delay,correct,1,correct id
+R_qU5wwOhP3OJbhM5,58,Male,60,170,170,7,distraction,incorrect,2,incorrect rejection
+R_3NCGCGkIKitlpnn,86,Female,35,176,170,7,distraction,correct,3,correct rejection
+R_1gp7L0swinCFfb0,75,Female,59,164,164,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_w0N6cKoivkqNN5f,100,Female,34,173,173,5,distraction,correct,3,correct id
+R_3nf37bmT3BhzmxA,55,Female,29,170,176,1,distraction,incorrect,2,filler id (ta)
+R_DvqpTMsArQHnEqZ,30,Female,29,164,173,4,distraction,incorrect,1,filler id (ta)
+R_5hkz9r599W1lrt7,80,Male,25,164,164,3,no delay,incorrect,2,filler id (tp)
+R_32Pyw6ExUeaU6eU,8,Female,30,164,173,7,distraction,correct,1,correct rejection
+R_aXIPwC4JAExElbj,91,Female,28,176,176,6,no delay,correct,3,correct id
+R_290V5yHbh5GAzZU,55,Male,47,170,170,1,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_VVvx9u5pX8qas9P,90,Male,47,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_1etvTe6L2iFDswA,75,Female,24,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2V9C7dFSbx7xyCk,90,Female,40,170,176,7,no delay,correct,3,correct rejection
+R_3LdIwYn3emtenMa,85,Female,47,170,170,1,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_2w4xX4WrkD8iQIX,75,Female,52,164,164,6,no delay,correct,2,correct id
+R_3GvSjvjmCtKRize,82,Female,30,176,170,7,distraction,correct,3,correct rejection
+R_2XdE0086cldBf6f,30,Male,28,176,176,7,distraction,incorrect,1,incorrect rejection
+R_1pMet1HD1jc1X0m,86,Female,44,170,176,3,no delay,incorrect,3,filler id (ta)
+R_PHgoiaaig6pGhrj,20,Female,23,164,173,7,hypothesis disconfirmation,correct,1,correct rejection
+R_yjy9SfEQ3aYoU49,85,Male,28,170,170,3,no delay,correct,3,correct id
+R_24P11KhG7IKCzPa,50,Female,39,173,173,1,no delay,incorrect,1,filler id (tp)
+R_3kyOM5I7uVTOccF,91,Male,34,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1q4agLVAeb0u4kz,15,Female,48,164,173,2,distraction,incorrect,1,filler id (ta)
+R_1C6LSmdJ9DLj7NL,98,Female,28,164,164,6,distraction,correct,3,correct id
+R_2rSKbEs4mpmlSVq,100,Male,37,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1DO2wAH0XfVeEth,53,Male,48,173,173,2,no delay,incorrect,2,filler id (tp)
+R_qznztKOVCHtL5q9,97,Female,40,164,173,7,no delay,correct,3,correct rejection
+R_3oyxYmrRBqNGnC8,59,Female,25,173,173,5,distraction,correct,2,correct id
+R_29gIfy05PmsQBeL,90,Female,55,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3OewDpY7oYXYWD0,82,Male,34,176,170,7,distraction,correct,3,correct rejection
+R_1gcDB5jhM9EasUe,90,Male,24,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_cOvdv7dJ5jPzDyh,94,Female,29,176,170,7,no delay,correct,3,correct rejection
+R_3KZ3x71aMc1eYtJ,70,Female,31,173,164,7,distraction,correct,2,correct rejection
+R_1fjQiYn50GB9ICr,65,Female,26,164,173,7,no delay,correct,2,correct rejection
+R_2dWlZRtDh0WYHdm,61,Female,36,176,176,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_2CQ7eU1U77rVNXT,73,Female,46,164,164,6,distraction,correct,2,correct id
+R_1JJwo8Wj8NYpdgS,75,Male,49,176,176,6,no delay,correct,2,correct id
+R_1Eg59pYACPSqRMI,28,Female,39,170,176,7,distraction,correct,1,correct rejection
+R_RJFSSI5ae9Xd3vH,85,Male,39,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1GIgpDD3lVlRykb,70,Female,24,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1IXFFgifSeMi9tz,100,Female,19,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_DH15wwpAOdaSHAJ,70,Female,33,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_1gIPbyU3Wg3fJ84,4,Male,63,170,176,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1QJyMJMrk1xqInH,80,Male,27,170,170,3,distraction,correct,2,correct id
+R_2EbB6Bnv9wub9Wq,90,Male,37,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3flsokTKhse8smI,20,Male,29,176,170,7,distraction,correct,1,correct rejection
+R_27J1mcW7lFWep6j,10,Male,34,164,164,6,hypothesis disconfirmation,correct,1,correct id
+R_2bQzd5FIsADVfrv,80,Male,34,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_SH06zTGbrP5ng6R,100,Female,24,164,164,3,no delay,incorrect,3,filler id (tp)
+R_24bcZyh6Cdro9Lb,80,Female,48,170,170,6,no delay,incorrect,2,filler id (tp)
+R_3nCpAjYtJjHm9m4,85,Female,61,176,176,7,no delay,incorrect,3,incorrect rejection
+R_2TWNDMh87pTeFQ0,82,Male,23,173,164,4,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_1ewqwFiwtXEN3Ce,75,Male,26,164,173,5,distraction,incorrect,2,innocent id
+R_ysCkI1w7CRBJtzH,75,Female,34,164,173,7,no delay,correct,2,correct rejection
+R_3gObEoXkHfkDY3F,70,Male,63,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3PTbf02pe4xsCkv,80,Male,44,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_3GoDLkbKY63KrXl,100,Female,49,173,173,5,no delay,correct,3,correct id
+R_AMa8z9iN1nTjIwV,82,Female,44,170,170,3,no delay,correct,3,correct id
+R_2bHMHqtg1tRM6IE,90,Male,29,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_2zhTneBQc8vh4T1,65,Male,57,176,170,7,no delay,correct,2,correct rejection
+R_3gSMgnYkodZtdtV,31,Female,45,164,164,7,distraction,incorrect,1,incorrect rejection
+R_1fcN2wHOFezxNAa,100,Male,32,164,173,7,distraction,correct,3,correct rejection
+R_1Nyyo4VAYSuMKYt,1,Male,48,170,170,3,hypothesis disconfirmation,correct,1,correct id
+R_2ZTuP98GRWaVM6y,20,Male,40,173,164,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2s72G9rgwk9HYbm,75,Male,39,164,173,6,no delay,incorrect,2,filler id (ta)
+R_AMQAJNi8fXLVlmN,66,Female,22,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3GwcrKNOD98Pxih,40,Female,25,164,173,6,distraction,incorrect,1,filler id (ta)
+R_2QPxHsTRGEHP827,100,Female,46,173,173,5,distraction,correct,3,correct id
+R_yUdw7b4iuyDEN0J,80,Female,46,176,170,4,no delay,incorrect,2,filler id (ta)
+R_1MMr8jJiIvdzygo,95,Female,58,173,173,5,no delay,correct,3,correct id
+R_21aJScAsplM74Oe,9,Male,34,176,170,7,hypothesis disconfirmation,correct,1,correct rejection
+R_3dWaxFK8VSt9S1O,72,Male,28,173,164,2,distraction,incorrect,2,filler id (ta)
+R_ZwuX9xLeVBNX2mJ,60,Female,29,164,164,5,no delay,incorrect,2,filler id (tp)
+R_2VDCSqUieMtDS7F,100,Male,23,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1mIvsrCDBCIJmKo,100,Female,46,176,176,6,no delay,correct,3,correct id
+R_1N7XcZkmh7PzX8J,70,Male,31,173,164,5,distraction,incorrect,2,filler id (ta)
+R_1eE3Yw1mohtMHz2,90,Male,37,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_23VRqImpuOuSHrp,100,Male,44,173,173,5,no delay,correct,3,correct id
+R_CdJFjDZtCO2EnTj,90,Male,31,176,170,7,distraction,correct,3,correct rejection
+R_tMrMEaM9a4n3w4h,30,Male,27,164,173,7,distraction,correct,1,correct rejection
+R_UtkPJylxG9LuSjf,100,Male,45,170,170,3,distraction,correct,3,correct id
+R_1Id9GHhPOblIS2h,75,Female,53,173,173,5,no delay,correct,2,correct id
+R_zfnsBoFjcxy9n3j,50,Male,44,164,164,6,distraction,correct,1,correct id
+R_1j8RaNc8UZE3X9Q,90,Male,20,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_b96oKGWohwP0qDn,75,Female,57,176,170,4,no delay,incorrect,2,filler id (ta)
+R_3QDwSRSyowqEHy8,52,Male,41,164,164,7,no delay,incorrect,2,incorrect rejection
+R_rrUPUZp1JX6hmEx,13,Female,48,173,164,7,distraction,correct,1,correct rejection
+R_2BrFctmhqb1RQEP,80,Male,36,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_33kzQsmmLjDqN1R,97,Female,53,164,173,2,no delay,incorrect,3,filler id (ta)
+R_3IVRl7IRLbCGPim,75,Male,66,170,176,7,distraction,correct,2,correct rejection
+R_2UXVpGNYarZbcre,33,Male,52,164,164,7,no delay,incorrect,1,incorrect rejection
+R_2cvB2S9GrZZ4xQ0,80,Male,49,176,176,6,no delay,correct,2,correct id
+R_2cwT65evpPFgUi7,50,Male,32,176,170,4,no delay,incorrect,1,filler id (ta)
+R_2vhQzmi5W7uJ1iu,80,Male,49,170,176,6,hypothesis disconfirmation,incorrect,2,innocent id
+R_1OO9vMqTQXozlcg,50,Male,47,164,173,7,distraction,correct,1,correct rejection
+R_2ebAuqSHOmkqVv0,29,Female,21,176,170,1,distraction,incorrect,1,filler id (ta)
+R_2dhUL0E33y6eyA7,99,Female,34,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2rNP26eYBsO1q5Z,41,Female,37,164,164,3,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_3O8lUF1FH6KULJ5,72,Female,33,164,173,7,distraction,correct,2,correct rejection
+R_1jCzCRvjEibwd8z,70,Male,32,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_3ER1LssvVTdytM7,85,Male,50,173,173,5,no delay,correct,3,correct id
+R_xgBVLS564VgeD5v,100,Female,30,173,164,5,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_2QmGV84pKJvOhPj,95,Female,41,164,173,7,no delay,correct,3,correct rejection
+R_eOFiRpaVYNaDXrz,99,Female,39,176,176,6,distraction,correct,3,correct id
+R_1FPRACwUkZFgW9k,80,Male,41,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3JqJgM20KkBOlYU,24,Female,40,170,170,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_31XAI90l3204eod,96,Male,39,170,176,7,no delay,correct,3,correct rejection
+R_1g2rcLKPS69SOtn,60,Female,48,170,170,3,distraction,correct,2,correct id
+R_aeNvlPhELlZnpnP,91,Male,60,173,164,7,distraction,correct,3,correct rejection
+R_28OEWIDjXhKQj6D,55,Female,29,164,164,2,no delay,incorrect,2,filler id (tp)
+R_2ATpd6MCbtNqL2P,85,Male,54,176,170,7,no delay,correct,3,correct rejection
+R_3R3HvY59jjowXk2,100,Female,36,173,173,5,distraction,correct,3,correct id
+R_cYoAoJPbGPnAb17,66,Female,54,164,173,7,no delay,correct,2,correct rejection
+R_1GTFIrgJ9Rhqo03,50,Male,36,170,170,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_1IQ45dxpuVN9cjf,50,Female,30,164,164,6,no delay,correct,1,correct id
+R_ehetwsQgLsp2729,95,Female,51,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_3GjQD9wt7JXKTji,90,Male,43,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_10xcEw43LPw8n7d,65,Female,36,164,164,6,distraction,correct,2,correct id
+R_3NwaVMY9ldot3Zw,55,Male,47,164,164,6,no delay,correct,2,correct id
+R_3L2bcF512KJMnGL,75,Male,49,176,176,6,no delay,correct,2,correct id
+R_33dkzZ8mpmjYVB0,41,Female,47,173,164,7,no delay,correct,1,correct rejection
+R_xra1pn4K5UtTiQF,90,Female,45,170,176,7,distraction,correct,3,correct rejection
+R_1QuRxPy6VoaBgvM,85,Female,45,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_07oSS6JiqhDJOpz,97,Male,26,170,176,7,distraction,correct,3,correct rejection
+R_2V2qTJDvwW39DyK,42,Female,48,176,170,7,no delay,correct,1,correct rejection
+R_3flxOoih2rAPKvE,25,Female,35,170,176,7,no delay,correct,1,correct rejection
+R_1BrH4OeWBMgLNAt,75,Female,54,173,164,7,no delay,correct,2,correct rejection
+R_2Xp4BCzQQ5tNCXo,65,Male,35,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_0MJS1oYUfTbZqOR,85,Male,28,164,173,5,no delay,incorrect,3,innocent id
+R_reiu6TjqZ83vT4l,80,Male,55,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_3Jfy2B64POS4tBK,82,Male,38,173,164,7,distraction,correct,3,correct rejection
+R_10qkL62ugUptc38,75,Male,31,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_3Rwn4nbRvWahBDO,100,Female,59,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_2QgOe8YRMHeLQxa,75,Male,48,173,164,2,no delay,incorrect,2,filler id (ta)
+R_3PpiauCG9eTWDT8,25,Female,60,173,173,5,hypothesis disconfirmation,correct,1,correct id
+R_1reUcczuIGtZwb2,50,Female,39,173,173,5,distraction,correct,1,correct id
+R_32L69awscWJfHzi,70,Female,50,173,173,4,distraction,incorrect,2,filler id (tp)
+R_2AQe3Yyd7TW74OW,90,Female,66,176,170,7,distraction,correct,3,correct rejection
+R_2cq5VTSJCCgoCid,30,Male,36,176,176,6,distraction,correct,1,correct id
+R_1EhqA7odcQGa1b7,80,Male,46,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_vTuYsh4zlV7zexP,95,Female,61,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_2VJvkZgLOrEoCno,19,Female,56,164,173,7,no delay,correct,1,correct rejection
+R_3iw0ZmR5zqUQnHt,100,Female,49,173,164,7,distraction,correct,3,correct rejection
+R_XU5Mb0r90OnqaOZ,82,Male,26,170,170,3,no delay,correct,3,correct id
+R_3Eo49sluEcqOf5b,50,Female,37,170,176,7,no delay,correct,1,correct rejection
+R_24iJKtZg039vii8,75,Female,48,164,173,7,no delay,correct,2,correct rejection
+R_1DSwabz0C1txGxe,60,Female,42,173,173,2,no delay,incorrect,2,filler id (tp)
+R_24tGtZzUnJWjl7W,31,Male,30,176,170,7,distraction,correct,1,correct rejection
+R_DlglwuKRw4titfb,25,Female,52,164,164,5,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_2S0Oz1rJ3nxBxWc,90,Male,42,170,170,3,no delay,correct,3,correct id
+R_3JeYJ8SQQxjFchx,100,Female,51,173,164,7,distraction,correct,3,correct rejection
+R_3PhSxvnn9vV5v67,70,Male,41,176,176,7,distraction,incorrect,2,incorrect rejection
+R_eeNP0JvL6J8Iu9X,90,Female,27,173,173,5,no delay,correct,3,correct id
+R_24iLzAdbjsa5A2Z,60,Male,30,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1pANXpj0wuvCSBD,100,Female,48,176,170,7,distraction,correct,3,correct rejection
+R_3qJQg3iaFfZlrkF,81,Female,35,173,173,5,distraction,correct,3,correct id
+R_TdWdtpsivj7aXcd,64,Male,32,176,176,2,no delay,incorrect,2,filler id (tp)
+R_BslEniz8MOndXb3,50,Male,29,170,176,7,distraction,correct,1,correct rejection
+R_1oBHmzJQpJocf9t,95,Female,66,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1K2c7XUpENg1BBz,92,Male,55,173,164,7,distraction,correct,3,correct rejection
+R_2qEgZfkxR2zMrJN,80,Female,37,164,173,7,no delay,correct,2,correct rejection
+R_1EWD6OiU0MRK3R1,80,Male,34,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2tJziv8RCsfTMwf,71,Female,45,173,164,7,no delay,correct,2,correct rejection
+R_8DkDjt4TB8Jpolz,75,Female,48,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_RfB1AWSGgMIH1AZ,30,Male,50,173,173,3,no delay,incorrect,1,filler id (tp)
+R_2Pd10pM5qKpGh3b,88,Male,53,164,164,3,distraction,incorrect,3,filler id (tp)
+R_1gHnZuE2KHCX8ia,60,Female,46,176,176,6,distraction,correct,2,correct id
+R_d7qFL6KH5JFgMa5,10,Female,25,164,164,7,distraction,incorrect,1,incorrect rejection
+R_5dz7R8MdXVbXlBv,24,Male,37,164,173,2,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_Uyg8qaC9Qu8J3ep,82,Female,27,176,170,7,no delay,correct,3,correct rejection
+R_p4nVeXUQ6Gk5Ait,30,Male,26,164,173,5,no delay,incorrect,1,innocent id
+R_2pVNsZmMOMUaPGI,74,Male,45,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2EuD90c9Bhgh96r,90,Male,38,170,170,3,distraction,correct,3,correct id
+R_2dGz8ycsnDxJz7u,60,Male,45,173,173,7,no delay,incorrect,2,incorrect rejection
+R_3mlNVjVj8cMBN4v,92,Female,33,173,164,7,no delay,correct,3,correct rejection
+R_1NnpWbSFSolQt0Y,20,Male,33,164,173,7,distraction,correct,1,correct rejection
+R_abkklJmnfssDBv3,90,Female,42,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3n6qPU9GxdLEoC0,57,Female,47,164,164,5,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_1QbjuGd16QnZPJh,88,Female,59,176,176,6,no delay,correct,3,correct id
+R_22Dqo9gIBB3CYoW,95,Male,38,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3pu0rebZK7aB5Ub,31,Male,39,170,170,3,no delay,correct,1,correct id
+R_33rplw972Unq7TF,81,Female,45,173,173,5,distraction,correct,3,correct id
+R_2eWsaMurYK4E0Sg,50,Female,28,164,173,5,distraction,incorrect,1,innocent id
+R_2Ceu66HveJjKzpO,35,Female,59,164,164,7,no delay,incorrect,1,incorrect rejection
+R_2wvOmYqZt24c1tM,73,Male,39,173,164,3,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_a5FJhSmFvFejC5H,60,Male,23,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_BAogJ0sz8hGJIWd,75,Female,44,170,170,2,distraction,incorrect,2,filler id (tp)
+R_3h4uu4RFEzEeILC,76,Other,54,176,170,4,distraction,incorrect,2,filler id (ta)
+R_1hJO9yWXtn2Yh6t,93,Female,38,173,173,5,no delay,correct,3,correct id
+R_2EGcvSTtnP6VEaT,51,Female,32,170,176,7,distraction,correct,2,correct rejection
+R_1H1c86dIuVdkH6r,100,Female,34,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3GE7hnEm8SNqIjH,31,Female,45,164,164,6,no delay,correct,1,correct id
+R_Apq0jZokACW9QoF,91,Female,66,164,173,7,distraction,correct,3,correct rejection
+R_1gw19ANo9DiCt8f,81,Male,51,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1LcnqMuQVvz38u0,62,Female,36,170,176,7,distraction,correct,2,correct rejection
+R_YaBVfGqgHCpfJeN,40,Female,54,164,164,4,no delay,incorrect,1,filler id (tp)
+R_2VF22k472wVsoEA,74,Male,42,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_2uQDRYd05SNvivn,61,Female,49,164,164,7,distraction,incorrect,2,incorrect rejection
+R_1Lp9Xuu4n1cSw9z,100,Male,48,176,170,4,distraction,incorrect,3,filler id (ta)
+R_3m2HJWwjtaKtioP,71,Other,31,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1Qzu4kJCP2p2aD8,80,Male,28,176,170,1,distraction,incorrect,2,filler id (ta)
+R_Ovr1b620yzLriEN,80,Male,33,170,176,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_UbVOkks9vEud2j7,92,Female,57,173,173,5,no delay,correct,3,correct id
+R_3POmCOkTq0RDBUk,98,Female,26,170,170,3,distraction,correct,3,correct id
+R_2uxFpeQBSTmKRBP,90,Female,31,170,176,7,no delay,correct,3,correct rejection
+R_uspfTCINs2Fc2sx,90,Male,54,164,164,6,no delay,correct,3,correct id
+R_2rNkd0R89jZ2eDu,51,Male,27,173,164,3,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_25Mx4Q4Ckw8Ys2T,85,Female,60,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2YbQ2shh2xnTzrl,90,Male,47,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3GE2B1uE3YkRbsF,75,Female,57,164,164,3,no delay,incorrect,2,filler id (tp)
+R_3QVQ2cKloZoJPAm,97,Male,31,164,173,1,distraction,incorrect,3,filler id (ta)
+R_1CkZOxYwb6xref4,85,Female,33,176,176,7,no delay,incorrect,3,incorrect rejection
+R_3hzGlEDz625IJjE,72,Male,28,164,173,5,hypothesis disconfirmation,incorrect,2,innocent id
+R_3LYni8ML25RZQD3,30,Female,30,170,170,4,no delay,incorrect,1,filler id (tp)
+R_1QMV0rzizHOFj2C,80,Male,28,170,170,3,no delay,correct,2,correct id
+R_1d7cSNNjO9KdNyg,90,Male,23,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_r6nJhF6B3s2K73r,70,Male,42,164,164,7,distraction,incorrect,2,incorrect rejection
+R_3P7CXaWgJQkqGi3,65,Male,33,173,164,7,distraction,correct,2,correct rejection
+R_20ZLSWCUFI87Bqt,65,Male,50,173,173,5,no delay,correct,2,correct id
+R_1flbQ0jilqMG6te,90,Female,26,164,164,6,distraction,correct,3,correct id
+R_2E5mR9Vx71aiXdL,85,Female,28,173,173,1,no delay,incorrect,3,filler id (tp)
+R_1opdMEXs47pqjl5,75,Male,37,164,173,7,distraction,correct,2,correct rejection
+R_1FJqFmPVCcuFp7y,100,Male,21,173,173,5,no delay,correct,3,correct id
+R_O1ZQCGjywHxbYBz,66,Female,33,173,164,7,distraction,correct,2,correct rejection
+R_1LGrAe4bZG77x4j,46,Female,33,173,164,3,no delay,incorrect,1,filler id (ta)
+R_3nAgZzAa9VDG6rQ,31,Female,32,176,176,6,hypothesis disconfirmation,correct,1,correct id
+R_xbTYZUy1N5pHcIN,93,Female,28,176,176,3,no delay,incorrect,3,filler id (tp)
+R_1laa9CNl4ds7YCu,88,Female,24,176,170,5,distraction,incorrect,3,filler id (ta)
+R_sIlrkTn4EQkwvBL,84,Male,66,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3PU0EqkOXuJV452,2,Female,40,176,176,2,distraction,incorrect,1,filler id (tp)
+R_2bZaPxwjLV2eUwy,90,Female,30,173,173,5,no delay,correct,3,correct id
+R_3DHf40fc5fdYJ9L,30,Female,69,176,170,2,distraction,incorrect,1,filler id (ta)
+R_d1oz6hklg7NgfJf,92,Female,31,173,173,5,distraction,correct,3,correct id
+R_1Iza4VGnGSahVI0,61,Male,52,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3kOn5CjySXQ1t4E,75,Female,40,173,164,7,no delay,correct,2,correct rejection
+R_3L1oCioe1ljl19n,71,Male,27,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3nTw3hityfzyHYu,80,Female,66,164,164,7,no delay,incorrect,2,incorrect rejection
+R_ODvqg1yxP926wMN,90,Female,59,164,164,6,distraction,correct,3,correct id
+R_tZ0yzzsOYbxMoEx,80,Female,30,173,164,7,no delay,correct,2,correct rejection
+R_2pVQna3PxPYp6LX,85,Male,24,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_Aj5EMPLQzpH0Fa1,59,Female,25,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_XnA1NEF9LgqO8kp,61,Male,53,170,176,7,distraction,correct,2,correct rejection
+R_2VjBbWmpjB6DO89,50,Male,34,164,164,5,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_1l4Ypr6ZfJwj9Ps,92,Female,59,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1QGFuVW4zGZa7pt,70,Female,39,173,164,5,distraction,incorrect,2,filler id (ta)
+R_24AhektbOibwkQN,70,Male,32,170,176,7,distraction,correct,2,correct rejection
+R_Zh0eVVgdK7w71mx,52,Male,34,164,164,6,no delay,correct,2,correct id
+R_1QlT8BuIjBC1Lv5,95,Male,39,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1DBawjHqN65Yloq,67,Male,66,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3psZL5uYU6Pc2Ur,83,Male,25,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3m2fMRYmWmRVy5E,70,Male,59,176,170,4,no delay,incorrect,2,filler id (ta)
+R_vOezKnCRXimOCJj,90,Female,24,173,173,5,distraction,correct,3,correct id
+R_2Ui5Fhk1Genu5P9,100,Female,26,176,170,7,no delay,correct,3,correct rejection
+R_8eTF0PnHxI7qObf,76,Female,35,170,176,6,hypothesis disconfirmation,incorrect,2,innocent id
+R_1ia3VkYA5g8onu2,50,Female,41,170,170,6,no delay,incorrect,1,filler id (tp)
+R_3sc3BhArdrO1d46,90,Male,24,173,164,5,distraction,incorrect,3,filler id (ta)
+R_1ibpABEMJeTOZYF,80,Male,26,173,164,7,distraction,correct,2,correct rejection
+R_3fCp9rLqYo6BXwh,63,Male,37,176,176,2,no delay,incorrect,2,filler id (tp)
+R_2dLJOTEZCeStoSr,100,Female,31,176,176,6,distraction,correct,3,correct id
+R_bBCExesDUTl42qZ,85,Female,23,173,164,3,no delay,incorrect,3,filler id (ta)
+R_1q4WGkjySBkt47s,100,Male,38,173,173,5,distraction,correct,3,correct id
+R_9MJWkt8YZ9KBo8V,51,Female,43,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2EoQdWmbPR7NWKm,75,Female,42,164,164,6,no delay,correct,2,correct id
+R_02LfSGz8VRMC9MJ,57,Male,33,164,164,2,distraction,incorrect,2,filler id (tp)
+R_1LpPutHnyo4t0PO,88,Male,31,176,176,5,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_YRoxwPRG7Je8qOt,89,Male,48,176,170,7,distraction,correct,3,correct rejection
+R_24wwrYH2EKFLE9G,91,Male,28,164,173,1,distraction,incorrect,3,filler id (ta)
+R_2xQxHHk2ykccmgH,60,Female,33,164,164,6,no delay,correct,2,correct id
+R_pmTKmbo0ApydYMV,81,Male,38,173,164,7,distraction,correct,3,correct rejection
+R_3oRABtpMPqXea1h,40,Female,26,173,173,5,distraction,correct,1,correct id
+R_1Q0MlUkXJWCTpVD,90,Female,35,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1eIBZzOjqOjyQ7M,80,Male,37,173,173,5,distraction,correct,2,correct id
+R_3gRFKgd6e7eOdr5,62,Female,67,170,176,7,no delay,correct,2,correct rejection
+R_28CzYGB9uSCT4R6,75,Female,46,170,170,3,no delay,correct,2,correct id
+R_2wgJuzuiDFdNeau,100,Female,58,176,170,7,no delay,correct,3,correct rejection
+R_3dGGq5Ah8oT7RRv,77,Male,33,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_vTdeczCXvRf86Jj,100,Female,51,164,173,7,no delay,correct,3,correct rejection
+R_3DkkSUlNHPPqV8q,98,Female,29,173,164,7,distraction,correct,3,correct rejection
+R_1juEiVq6Fcp26s6,88,Female,41,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3lQXJMSgxGtR4h2,98,Male,42,173,173,5,distraction,correct,3,correct id
+R_1GWHTCLPttPyKmk,75,Male,62,164,173,4,no delay,incorrect,2,filler id (ta)
+R_1IWq5qtFpoWXxtc,70,Male,32,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_sv937PIm1uZirdf,85,Female,51,173,164,7,distraction,correct,3,correct rejection
+R_Z3r3DiyBqiXxK5b,82,Female,38,170,170,3,no delay,correct,3,correct id
+R_3ipMSHOsRpRojs7,50,Male,28,164,173,7,distraction,correct,1,correct rejection
+R_3fdViEtz3Yab2N7,71,Female,55,176,176,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_3qV7Ov542gqEE0q,100,Male,65,176,176,7,no delay,incorrect,3,incorrect rejection
+R_1ob4cBKPAmYwcdT,97,Female,42,176,170,7,distraction,correct,3,correct rejection
+R_3NWgua0RfSNBUoe,92,Female,52,173,164,7,distraction,correct,3,correct rejection
+R_2Vl31uKlkYxmYqn,50,Female,33,170,176,7,no delay,correct,1,correct rejection
+R_3g1tayWA5CUQvFX,20,Female,33,164,173,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1nZy6eTNe6bfa1v,62,Female,33,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_BJsW6LHeLplAEox,92,Female,36,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2VPyWUhGFGuaGpq,64,Female,57,173,173,7,no delay,incorrect,2,incorrect rejection
+R_1jwH3MK540Gr4s6,69,Male,32,170,170,3,distraction,correct,2,correct id
+R_xykOK0GOUPVf82d,55,Male,37,164,164,7,distraction,incorrect,2,incorrect rejection
+R_1NliddVVC79ZAzi,92,Female,26,176,176,6,distraction,correct,3,correct id
+R_2EFRVdHVNmg014h,60,Female,32,164,164,7,no delay,incorrect,2,incorrect rejection
+R_DHmihotdeaIvPNL,61,Female,26,176,170,4,no delay,incorrect,2,filler id (ta)
+R_yWKypv97TnNlsSl,82,Female,38,173,173,1,no delay,incorrect,3,filler id (tp)
+R_3nimZ9RikrlNDxR,99,Female,37,173,164,7,no delay,correct,3,correct rejection
+R_9AeISgOpAAjg6zv,60,Male,39,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1mCnbc5BZC29h0Q,60,Female,74,173,164,7,distraction,correct,2,correct rejection
+R_2QPs9weUjX6hAdn,35,Female,63,170,170,7,no delay,incorrect,1,incorrect rejection
+R_2ZCZMHapSG2wuJq,80,Female,57,176,170,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_1CpBfDvC0V6qB0P,90,Male,28,170,176,7,distraction,correct,3,correct rejection
+R_1pyzaJMnhhSvhhE,75,Male,49,164,173,7,no delay,correct,2,correct rejection
+R_110B8jjFTDrTgOU,92,Male,44,170,176,7,distraction,correct,3,correct rejection
+R_1rGNdhbvRswstgw,100,Female,38,173,173,5,distraction,correct,3,correct id
+R_xtHKdGNPeLEUGR3,83,Female,32,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1EjrgA4jI38KuuG,84,Female,27,170,170,3,distraction,correct,3,correct id
+R_3q7qRgH80qLQpcl,49,Male,52,164,164,7,distraction,incorrect,1,incorrect rejection
+R_1DzBSz4GvQUgSW2,100,Female,61,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_UEzvcn72Ca74BSF,90,Female,36,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_2a8KGFw9WZFcC46,80,Male,46,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_szHm2Uwm7vlFIZ3,50,Male,36,164,164,6,no delay,correct,1,correct id
+R_2eXTnO4iTSsIGY2,95,Male,31,173,164,7,no delay,correct,3,correct rejection
+R_2q8Ws96tTRCcOSd,95,Female,65,173,173,5,distraction,correct,3,correct id
+R_3EvcpzzAK6pDVWm,90,Male,32,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_3I0rdSp5TcUEM97,70,Other,36,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_31mgEOSkwbtSBwz,90,Male,46,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1IsWcKGN3ZvbBC5,100,Female,28,173,173,3,distraction,incorrect,3,filler id (tp)
+R_da0Aeplkk5AoMEh,97,Male,29,173,173,5,distraction,correct,3,correct id
+R_2V4vSK5Gxs9VvSD,19,Female,38,164,164,1,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_2QJKYHMvqg7rvqh,95,Female,32,170,170,3,distraction,correct,3,correct id
+R_Wll74BQmHvUGWPf,75,Female,28,164,164,2,no delay,incorrect,2,filler id (tp)
+R_3nUF73XMfee79pa,81,Female,37,164,173,7,no delay,correct,3,correct rejection
+R_80v067S7WjcLFjX,70,Male,41,164,164,5,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_22AlRR7jMUC03hJ,99,Female,31,176,170,7,no delay,correct,3,correct rejection
+R_PUIfMMuLD7jpq0N,100,Male,26,173,164,7,distraction,correct,3,correct rejection
+R_psWtA8JqvtXhShz,69,Female,35,164,164,6,hypothesis disconfirmation,correct,2,correct id
+R_9AXPXAx3p0yfeIp,50,Female,39,170,176,3,distraction,incorrect,1,filler id (ta)
+R_2xMqFBQ9e2bME4q,95,Female,37,164,173,7,no delay,correct,3,correct rejection
+R_1N93bdzW6szt2Tx,76,Female,36,164,164,6,no delay,correct,2,correct id
+R_2wHTYzESUBC8EDF,50,Female,33,164,164,5,distraction,incorrect,1,filler id (tp)
+R_3BKc7HkSK2DLzvr,90,Male,40,176,176,7,no delay,incorrect,3,incorrect rejection
+R_9S8c4V94PaZqNO1,91,Female,34,173,173,5,distraction,correct,3,correct id
+R_2PwdcjkvboeMzOF,67,Female,29,170,176,3,distraction,incorrect,2,filler id (ta)
+R_1rqeBI3H0srZy3c,100,Male,33,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1DuxmY0Uhz9hYek,52,Female,36,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_ZkRkSXQqtPQS3st,99,Female,27,173,173,5,no delay,correct,3,correct id
+R_2vizEc4euQWAg0s,19,Male,29,170,170,4,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_1KjdNBcxMne5pAl,95,Male,47,173,173,5,distraction,correct,3,correct id
+R_2Ed6Bq3QuDXRuVf,81,Female,27,176,170,4,no delay,incorrect,3,filler id (ta)
+R_AHu310DUlc1F17z,1,Male,65,176,176,7,distraction,incorrect,1,incorrect rejection
+R_3JBUFYXoSPTVQUV,80,Male,40,176,170,4,distraction,incorrect,2,filler id (ta)
+R_3oNlmJSY4nBg6xg,90,Female,34,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2qDkhJWiIg25eeD,54,Female,26,164,164,5,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_29bMuijpsptvYB8,60,Female,36,176,176,6,distraction,correct,2,correct id
+R_2EpgQLpuXdOViiY,80,Male,37,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_Zy4vXtme473ufnP,96,Female,22,176,176,6,no delay,correct,3,correct id
+R_xryxXjDoWeLzwOJ,75,Male,69,173,164,1,no delay,incorrect,2,filler id (ta)
+R_3lrHJKjAJC9zV9Z,40,Female,27,164,164,6,distraction,correct,1,correct id
+R_uqzTmytrx8gXfC9,80,Male,44,170,176,7,no delay,correct,2,correct rejection
+R_8jrPvoCC7tFLLPj,97,Female,33,170,170,3,distraction,correct,3,correct id
+R_2OVyVDkhhc4BbHn,91,Male,45,164,164,3,distraction,incorrect,3,filler id (tp)
+R_29iRlGwegsIyZYE,86,Male,31,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_2S1RoA83ce83xpO,20,Female,21,170,176,5,distraction,incorrect,1,filler id (ta)
+R_33m4NqyiZCyvG4V,30,Female,49,176,176,7,no delay,incorrect,1,incorrect rejection
+R_2VxWeV5uRdIHGiP,40,Female,57,173,164,3,no delay,incorrect,1,filler id (ta)
+R_12aLsv2MOhH3eny,80,Female,45,173,173,5,no delay,correct,2,correct id
+R_2y1Id6yH6YtNop1,40,Female,34,170,170,7,no delay,incorrect,1,incorrect rejection
+R_8izy92c5rj4Fp8R,30,Male,39,164,173,1,distraction,incorrect,1,filler id (ta)
+R_2QSUrFuscYsmqIz,75,Female,31,173,173,5,distraction,correct,2,correct id
+R_28APk7g8CzaBrSv,75,Female,38,173,164,5,no delay,incorrect,2,filler id (ta)
+R_vUlQBplkTIKFNMB,91,Female,68,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_3ESafEuaAPorvV8,100,Female,36,173,164,7,no delay,correct,3,correct rejection
+R_3m4bLDhNJwasglm,55,Female,33,164,164,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_1JOQ5OtLAA5ebiW,85,Male,39,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3QDb3maZyUl1jvg,31,Male,45,164,173,2,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_3DoHuEY7l2Z9C8H,80,Female,43,176,170,7,no delay,correct,2,correct rejection
+R_20PxMKcG8nHphqz,69,Female,34,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3g776D82ZmbvO8t,65,Male,45,170,176,6,hypothesis disconfirmation,incorrect,2,innocent id
+R_3pnBoeCJcBeZ71K,81,Female,34,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1CsyWcDXrMsmMQz,80,Female,24,173,164,7,distraction,correct,2,correct rejection
+R_2s6dN9VsoKBejZK,81,Female,37,164,173,2,distraction,incorrect,3,filler id (ta)
+R_3MsagheZB5iFMC0,50,Male,55,176,170,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2SpDddrwaHuaB7n,70,Male,45,176,176,7,distraction,incorrect,2,incorrect rejection
+R_2Eh211E28EIbHgp,67,Female,33,176,176,2,no delay,incorrect,2,filler id (tp)
+R_9uk34w215Bi52lH,65,Male,37,173,164,3,distraction,incorrect,2,filler id (ta)
+R_1pJp15y5ozNMENO,61,Female,46,173,173,5,no delay,correct,2,correct id
+R_2vcu1ptHdAb0e3Q,80,Female,40,173,164,7,distraction,correct,2,correct rejection
+R_DADYoOgKzB9E3g5,100,Male,28,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_2y91quXgqU742Zl,91,Female,44,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3hoV2eU44damNgp,90,Female,48,173,164,7,no delay,correct,3,correct rejection
+R_6mpKiWlKREt6b9D,93,Female,21,170,170,3,distraction,correct,3,correct id
+R_OjokkHCfrEf1G2l,50,Female,37,164,173,7,distraction,correct,1,correct rejection
+R_9B6p2evC5s9ewRH,50,Male,52,176,176,1,no delay,incorrect,1,filler id (tp)
+R_z8aVcNMBkDGMR3j,90,Male,70,176,170,7,distraction,correct,3,correct rejection
+R_2cBGdSZOAQpnAqZ,80,Female,25,164,173,7,no delay,correct,2,correct rejection
+R_YYWA8sds10C1Sox,50,Female,30,164,164,3,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_2EiamnQnVy2kGRk,52,Female,25,173,173,1,no delay,incorrect,2,filler id (tp)
+R_4JcnBkRC6nyaQ0x,95,Female,34,170,176,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2wNqA02Cp6WG26c,90,Female,45,176,170,7,distraction,correct,3,correct rejection
+R_OBxz75N9eWOuwox,89,Female,65,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_z7ImrZnZAhEsZXz,65,Female,35,176,170,2,no delay,incorrect,2,filler id (ta)
+R_3JVITIEIVyjHS6Z,14,Female,60,170,176,2,distraction,incorrect,1,filler id (ta)
+R_2y1rtsYcYr3HpyD,70,Male,32,170,176,7,no delay,correct,2,correct rejection
+R_QaKrRMTOj6ywAE1,51,Male,35,170,176,1,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_3iD03AcvEGGQR0i,99,Female,65,173,164,7,no delay,correct,3,correct rejection
+R_RxhRtxWQYrXYP0B,71,Female,54,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_tQmWhitiy4ROidP,75,Male,39,173,164,7,distraction,correct,2,correct rejection
+R_3qeNlNpC2ljNb9Q,95,Female,29,176,176,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_1lnTa5bKHnJokdb,73,Female,65,164,164,7,no delay,incorrect,2,incorrect rejection
+R_b2iTBE2OCgz4Yoh,75,Male,38,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_1Cd2syEKJG5W9XM,82,Female,36,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_XLml0mWzbUv8D7z,70,Female,34,176,176,6,no delay,correct,2,correct id
+R_u8hN0IcGudGXNJf,50,Female,27,173,173,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_3qsudKujLrzSNfC,84,Female,37,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1mRgufuAJtuZPx6,70,Female,28,170,176,1,no delay,incorrect,2,filler id (ta)
+R_27D547VEyPHSaAK,90,Female,33,173,173,5,distraction,correct,3,correct id
+R_5nkPJp0Ccqg4FFL,91,Female,49,164,164,6,distraction,correct,3,correct id
+R_2rjoa3c6tivWQa5,100,Female,29,176,170,4,distraction,incorrect,3,filler id (ta)
+R_30cWGphrfoCZA2E,88,Female,49,176,170,7,no delay,correct,3,correct rejection
+R_bPLdb1wYA6zSGwV,95,Female,45,173,173,5,distraction,correct,3,correct id
+R_3kzvv1lWg8XoKIg,50,Female,45,176,170,7,hypothesis disconfirmation,correct,1,correct rejection
+R_VQlawEvzfFBxYNH,45,Male,36,173,164,7,no delay,correct,1,correct rejection
+R_116ggCvm5HADVVW,75,Female,43,170,170,3,distraction,correct,2,correct id
+R_820AbSR5dxNbl2V,65,Female,29,164,173,2,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_yrPTGm5yI72Xnrj,80,Male,39,170,176,7,no delay,correct,2,correct rejection
+R_3oWLA3NkhrnhnLA,61,Female,39,164,164,3,distraction,incorrect,2,filler id (tp)
+R_247a4xpMNhjPVEB,90,Male,40,170,170,2,distraction,incorrect,3,filler id (tp)
+R_12EDll7nNv8rUT1,70,Female,55,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2ZNUVeGXLsUojkv,87,Female,39,164,173,2,hypothesis disconfirmation,incorrect,3,filler id (ta)
+R_1oosZebYt0xdHpp,75,Female,22,170,170,7,no delay,incorrect,2,incorrect rejection
+R_xl5O4qxj02ev0lz,80,Female,54,164,164,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_3CZxpe0gcGGb2Ib,77,Female,27,170,176,7,distraction,correct,2,correct rejection
+R_w1zKlO2sFqH7n6p,99,Female,32,176,170,7,no delay,correct,3,correct rejection
+R_SCwADrVzEoLvkn7,51,Male,60,176,176,6,no delay,correct,2,correct id
+R_2ahN0zZaqrxEvGa,99,Female,44,173,173,5,distraction,correct,3,correct id
+R_3JJalaeAIg16yj3,60,Male,31,170,176,7,distraction,correct,2,correct rejection
+R_3hiLUUr6ePBjNNV,90,Male,30,164,173,6,no delay,incorrect,3,filler id (ta)
+R_2aW7mtkPMgcAhHD,73,Female,32,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_2Cskb09wfRSuKSJ,92,Female,43,176,176,7,no delay,incorrect,3,incorrect rejection
+R_Uu7TXr0N9BjHEjL,70,Male,26,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_5BC5zdWGb3SR5hn,60,Female,31,164,164,2,no delay,incorrect,2,filler id (tp)
+R_3qO4foT56Qf39RL,20,Male,34,173,164,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1DqCH5cyL8jN2L2,88,Male,28,170,176,5,distraction,incorrect,3,filler id (ta)
+R_sv6ah3H5vjbDo2J,80,Female,30,173,164,7,distraction,correct,2,correct rejection
+R_27jvdn9nEyiJmpr,68,Male,28,176,170,7,no delay,correct,2,correct rejection
+R_1oosMrqaX808jz1,75,Female,33,176,170,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_PTFKjeAB7IjB1Dz,81,Female,67,176,170,7,no delay,correct,3,correct rejection
+R_3Ge8GYCMCVOa9aI,90,Female,24,164,173,7,distraction,correct,3,correct rejection
+R_TjGs8n5pFqUYhZT,72,Female,37,176,176,2,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_1jTWWFOY2yNM1Ot,84,Male,34,176,176,7,distraction,incorrect,3,incorrect rejection
+R_1kTabgB5giLW94T,84,Male,32,164,173,7,no delay,correct,3,correct rejection
+R_3lGHgP4Ek7xzWsZ,90,Female,46,173,173,5,distraction,correct,3,correct id
+R_vCs6vkQEI0vbu5r,77,Female,50,173,164,1,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_11hBMJPmcEuRrfi,41,Female,30,164,173,2,distraction,incorrect,1,filler id (ta)
+R_1lgloBprVkR2NBT,88,Female,31,173,173,5,no delay,correct,3,correct id
+R_2rORHtw9TuedUcb,75,Male,29,176,170,4,no delay,incorrect,2,filler id (ta)
+R_3prlcEBIUOzXDCB,40,Female,33,164,164,2,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_RQCAlIt3yQxJnIR,60,Male,45,164,164,6,distraction,correct,2,correct id
+R_1jIWAnZUQ9JaMDg,90,Male,60,176,176,7,distraction,incorrect,3,incorrect rejection
+R_22rhHezHq67oKIF,85,Female,35,176,176,6,no delay,correct,3,correct id
+R_3knBq6ZDttbe5s3,11,Male,31,164,173,7,distraction,correct,1,correct rejection
+R_1Lna6OAPOOTwuCN,100,Male,30,170,176,7,distraction,correct,3,correct rejection
+R_1mIcRgBm0Tk9j1W,45,Female,54,170,170,3,hypothesis disconfirmation,correct,1,correct id
+R_T1HZMNlcpDZjkHf,86,Female,34,164,164,5,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_xyZIrQLwnL69Rvj,97,Female,29,170,170,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_2Qroza9mvC5r6eW,38,Female,40,170,176,6,distraction,incorrect,1,innocent id
+R_1liCKqfsPTsUxrM,80,Male,48,173,164,7,no delay,correct,2,correct rejection
+R_BJ7XN4vSF5wJaFj,50,Female,42,176,176,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_ahmoy4SQHhpcZeV,60,Male,33,164,173,1,no delay,incorrect,2,filler id (ta)
+R_DiNvmnU5lJOikTf,74,Female,26,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_tQxbK7AxwPd0Ak9,100,Female,38,170,176,7,distraction,correct,3,correct rejection
+R_25sH64SRIyztOyT,99,Female,45,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_DozTgIuk0FbY26R,99,Female,31,173,173,5,distraction,correct,3,correct id
+R_1ghwCzjdOoDwwGY,80,Female,29,173,173,2,distraction,incorrect,2,filler id (tp)
+R_3QRgqj58XIxMYlm,79,Male,43,164,173,7,no delay,correct,2,correct rejection
+R_2RQVJqeWvRPTR9N,100,Female,56,170,170,7,no delay,incorrect,3,incorrect rejection
+R_3DpsiFMDlf4XVCF,95,Female,30,173,173,5,no delay,correct,3,correct id
+R_1f2AqB2uNa1lI9X,90,Female,45,173,173,5,no delay,correct,3,correct id
+R_3Dje6e8MWzVwqgS,95,Female,49,176,170,7,distraction,correct,3,correct rejection
+R_2U4bkwWiQLT1Blu,67,Female,31,170,170,3,distraction,correct,2,correct id
+R_3z0q7b15XfF2Wzv,81,Male,35,176,170,7,no delay,correct,3,correct rejection
+R_2SIG8Ji5IAhJQBb,52,Female,37,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3NOs0UNLNwNWErd,15,Male,59,170,170,3,hypothesis disconfirmation,correct,1,correct id
+R_1LYy4spbBjmtKAV,65,Female,25,176,170,7,no delay,correct,2,correct rejection
+R_BWJDrJPFUIgic7f,71,Male,32,164,173,6,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_ZCxq9wmoFCTRZlf,55,Female,30,173,164,7,no delay,correct,2,correct rejection
+R_qIPiJBLqN4gU8pP,70,Female,31,164,173,4,no delay,incorrect,2,filler id (ta)
+R_2ccLU0Y7KxXHn1H,80,Female,25,176,170,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1Q5f0TmCur3hNPM,70,Female,42,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_3Eoh84aLeAcnmH6,81,Male,51,176,176,4,distraction,incorrect,3,filler id (tp)
+R_2Y8TwJBpCRIIvOx,90,Female,37,164,164,6,hypothesis disconfirmation,correct,3,correct id
+R_TgZc2X92ajuObMB,85,Male,38,176,170,7,no delay,correct,3,correct rejection
+R_3Ddp77m3ilSLDBH,70,Male,55,176,176,6,hypothesis disconfirmation,correct,2,correct id
+R_pyZoIH1PL0SdETT,76,Female,73,176,176,6,distraction,correct,2,correct id
+R_BxNy1fiVIxq4vx7,70,Female,36,176,170,4,distraction,incorrect,2,filler id (ta)
+R_3KCS7o3wW4PHVz1,90,Male,65,164,173,7,no delay,correct,3,correct rejection
+R_PY5h2gy5DCihWql,84,Female,40,176,170,4,distraction,incorrect,3,filler id (ta)
+R_3lKtLEqDvjTyQwJ,76,Female,33,170,170,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_00qIiyuUIgK4BgJ,82,Male,80,164,164,7,no delay,incorrect,3,incorrect rejection
+R_240MQciYsprNoYS,42,Female,44,164,173,7,distraction,correct,1,correct rejection
+R_3gZTHc5ykSaXPYJ,25,Male,38,176,176,1,hypothesis disconfirmation,incorrect,1,filler id (tp)
+R_9XFu16Js7RsGZk5,40,Female,52,176,176,7,distraction,incorrect,1,incorrect rejection
+R_1jSXmYpoln7Hvts,84,Male,41,164,164,5,no delay,incorrect,3,filler id (tp)
+R_2dtg5FCJE0NvyKk,65,Female,43,176,176,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_3nVOW9F4Rc1F2sp,85,Male,33,176,176,6,no delay,correct,3,correct id
+R_3p580EmxR08RSgx,70,Male,30,164,173,7,distraction,correct,2,correct rejection
+R_tWXhSBpMEiaCvfj,95,Female,57,164,164,1,no delay,incorrect,3,filler id (tp)
+R_29ivs7h1147iikg,100,Female,40,176,170,3,no delay,incorrect,3,innocent id
+R_Y4B1pohNwFysTbX,53,Male,38,176,176,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_248mHBklj4x5dnj,49,Prefer not to say,35,173,173,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_pDxC7uLAX98jI4N,48,Female,25,164,164,6,distraction,correct,1,correct id
+R_1BVPwJqdVYaD1F8,50,Female,33,173,164,5,distraction,incorrect,1,filler id (ta)
+R_2z8Edx8CsHwIcT9,90,Male,31,170,170,3,no delay,correct,3,correct id
+R_pzLf9fUw80FjGMx,95,Male,20,170,176,7,no delay,correct,3,correct rejection
+R_zUxIV5oUklfgXaV,82,Female,37,164,173,7,distraction,correct,3,correct rejection
+R_3GCDQDtHB0JDWfQ,85,Female,60,176,176,5,hypothesis disconfirmation,incorrect,3,filler id (tp)
+R_6J92o18Qxk4JPwZ,100,Female,30,173,173,5,distraction,correct,3,correct id
+R_5vzh62zYrN7amu5,25,Female,19,176,176,3,no delay,incorrect,1,filler id (tp)
+R_11hJIxYEzT1Piwx,52,Female,20,170,176,1,no delay,incorrect,2,filler id (ta)
+R_1OwCmokK2LGDHXE,96,Female,34,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2EE32qN7LfIzNpr,94,Female,26,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_2WwAldMQgHNJa4x,75,Female,37,173,164,1,no delay,incorrect,2,filler id (ta)
+R_Bs5kP1VL2mWk30l,85,Male,52,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_1jGM0abjsMpjOLF,85,Female,44,164,164,6,distraction,correct,3,correct id
+R_2PwolVQu4bwwY0H,61,Female,43,176,176,7,no delay,incorrect,2,incorrect rejection
+R_22zCQCjnpVlkACH,61,Female,39,164,164,7,hypothesis disconfirmation,incorrect,2,incorrect rejection
+R_1jdYT9sQrrh7XVr,60,Female,21,164,164,7,distraction,incorrect,2,incorrect rejection
+R_W9hxbAaWFQi4QbD,1,Female,20,173,164,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1diujx6yYftTqBR,67,Female,20,173,173,5,no delay,correct,2,correct id
+R_zVAfi8IuuERB4jf,85,Female,20,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_s4YWmO6us0KQZpv,85,Female,18,173,173,5,no delay,correct,3,correct id
+R_3HTSnLWgcp3bL5W,85,Female,22,170,176,7,no delay,correct,3,correct rejection
+R_3HhUEJMwRTUph9o,60,Female,18,164,164,3,distraction,incorrect,2,filler id (tp)
+R_2uD2XSCokpBy97M,100,Female,30,170,170,2,no delay,incorrect,3,filler id (tp)
+R_338eTTG8M46GOpb,66,Female,24,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2uNJ2rHmZiLzc3q,66,Female,21,176,170,3,distraction,incorrect,2,innocent id
+R_25ygJQ4bdNvDnyd,40,Female,18,170,170,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_1Cma5JigykgDTw4,47,Female,21,164,173,7,no delay,correct,1,correct rejection
+R_2TueyhB0Edg97FS,72,Male,19,164,164,6,distraction,correct,2,correct id
+R_8vofaqKq0UvOI1j,70,Female,21,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1MR77ALwkG5oAvU,70,Female,19,176,170,4,distraction,incorrect,2,filler id (ta)
+R_1gdw8mxXsZbeiLi,92,Male,20,176,176,6,no delay,correct,3,correct id
+R_x3m7U8ppmX2GKKl,55,Female,19,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_5aKPLqgZhwL0XrX,30,Female,19,164,164,3,distraction,incorrect,1,filler id (tp)
+R_1JOCV5QGa7WlZVL,50,Female,19,164,173,7,no delay,correct,1,correct rejection
+R_NXUlpmPbnsXwSxr,88,Female,18,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_1MXNgLyTVyi648y,40,Female,19,170,170,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_VJQL8iSRG2TrRhn,51,Female,30,170,176,4,no delay,incorrect,2,filler id (ta)
+R_Td2VCVKoklxAw6t,92,Female,22,176,176,6,hypothesis disconfirmation,correct,3,correct id
+R_1GOWhGoCNsdnID3,68,Female,18,164,164,7,no delay,incorrect,2,incorrect rejection
+R_yyYoPtniViLB5mN,71,Female,18,164,173,7,distraction,correct,2,correct rejection
+R_PHyVDf5jWpPInm1,50,Female,21,173,173,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_1KrHdWjWtsqjSmy,100,Male,20,176,170,7,distraction,correct,3,correct rejection
+R_SE28SRhOQ9Qlhrr,55,Female,19,176,176,3,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_1OBJvzcGrLPskPz,85,Female,18,170,176,7,no delay,correct,3,correct rejection
+R_3rGJ10GLnm9pZWw,56,Female,18,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_1CliXnJ6SK9JkUJ,30,Female,28,164,164,6,distraction,correct,1,correct id
+R_3oYlJITkpjTfKuV,91,Female,43,170,170,3,hypothesis disconfirmation,correct,3,correct id
+R_1QsYb6qL5QfW94d,40,Female,21,176,176,6,distraction,correct,1,correct id
+R_uh2FtWnwHucXqBr,30,Female,18,164,173,7,hypothesis disconfirmation,correct,1,correct rejection
+R_2QVxeVFv72ZJHp4,50,Female,18,170,176,7,no delay,correct,1,correct rejection
+R_tJTHdlI3fEL4797,30,Female,18,164,164,6,distraction,correct,1,correct id
+R_1f2TbMDfZe0ygVo,40,Female,18,173,164,1,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_1dHd0Kzsg8k8bq1,45,Female,18,170,170,3,distraction,correct,1,correct id
+R_2Eh4PO5CgQMdOCH,67,Female,20,173,173,4,distraction,incorrect,2,filler id (tp)
+R_2bVt6yXN51ciciN,82,Female,18,176,176,7,no delay,incorrect,3,incorrect rejection
+R_278KQyWyzlGfmzF,45,Female,18,164,173,6,distraction,incorrect,1,filler id (ta)
+R_1rfw8YcAgpuGZAL,90,Female,18,176,170,7,no delay,correct,3,correct rejection
+R_1guwbUdIl3wL6fh,19,Female,18,176,176,7,distraction,incorrect,1,incorrect rejection
+R_ZdG0jb6xI82glVv,75,Female,18,173,173,1,distraction,incorrect,2,filler id (tp)
+R_248GzF9j72GWaXG,46,Female,18,173,164,4,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_Ucj6YMcvazcsaUF,55,Female,18,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1j8HQi1gqr9fvwp,91,Female,29,176,176,6,distraction,correct,3,correct id
+R_W10HH6CX86FfuJH,100,Male,18,173,173,5,distraction,correct,3,correct id
+R_1prmtQ3QtD8dw8W,70,Female,36,170,170,6,hypothesis disconfirmation,incorrect,2,filler id (tp)
+R_2t68RIycXSeRWN3,91,Female,18,173,164,7,hypothesis disconfirmation,correct,3,correct rejection
+R_29oeWZpKgzd8ezf,85,Female,20,164,164,3,distraction,incorrect,3,filler id (tp)
+R_Rna9CM1vFYFDoe5,85,Female,26,173,173,5,distraction,correct,3,correct id
+R_1ffMDDf98rm1to3,80,Female,19,173,164,7,no delay,correct,2,correct rejection
+R_1jE3uxXqYysldWz,70,Male,18,170,176,7,no delay,correct,2,correct rejection
+R_qRuGK558eYgEPV7,50,Female,18,164,164,7,no delay,incorrect,1,incorrect rejection
+R_3hGXfGgxxg4TAAu,60,Female,18,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_1C2XNoWoGNX8rMl,17,Female,18,164,173,5,distraction,incorrect,1,innocent id
+R_paYF3Pk81RcGBEd,50,Male,18,173,173,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_1Ho7edzgThGIGZa,70,Female,24,170,170,3,no delay,correct,2,correct id
+R_1OkLLrLgDnwrieE,90,Female,18,173,173,5,no delay,correct,3,correct id
+R_ZqMELlAMdiGHDPz,30,Female,18,176,170,3,distraction,incorrect,1,innocent id
+R_10xyG3PutT97gKY,50,Female,18,173,164,6,no delay,incorrect,1,innocent id
+R_DdT27N9iYgJBx0R,30,Female,19,173,164,3,no delay,incorrect,1,filler id (ta)
+R_C8iyd0u2mA7gQzD,25,Female,41,173,173,1,distraction,incorrect,1,filler id (tp)
+R_3dR1ZBRNKMrwO1G,76,Female,20,173,164,7,distraction,correct,2,correct rejection
+R_2Yn40lXty6f7f3A,61,Female,22,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_3dJQzXSOP4ZB2sV,71,Female,26,173,173,5,hypothesis disconfirmation,correct,2,correct id
+R_5gnhpgl3FcydtND,65,Female,24,170,176,7,no delay,correct,2,correct rejection
+R_3PbFDkqRLxByHGZ,13,Female,21,164,164,7,distraction,incorrect,1,incorrect rejection
+R_2e2bxrqNv8OTYrx,85,Male,19,176,176,6,distraction,correct,3,correct id
+R_1jfD0ZC5WuAansg,82,Female,18,173,164,7,no delay,correct,3,correct rejection
+R_2cC5tqbKycKaiDi,82,Female,18,176,176,6,no delay,correct,3,correct id
+R_Y4Ym4yCU741wEDf,19,Female,20,173,164,2,distraction,incorrect,1,filler id (ta)
+R_3M6it58i2dqFNdO,90,Female,19,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_3HG3P6qRT92D6C8,20,Male,18,170,170,7,no delay,incorrect,1,incorrect rejection
+R_3qjJBlkQBF2VyHM,100,Female,49,164,164,6,no delay,correct,3,correct id
+R_10AgOmhmU9mVLAW,50,Female,27,173,164,7,distraction,correct,1,correct rejection
+R_3QLx8f0iY6sk4nk,71,Female,30,164,173,7,hypothesis disconfirmation,correct,2,correct rejection
+R_21dD4Ewn3rqm03F,90,Male,20,164,164,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_27fyKRAz5P49tUB,90,Female,44,173,173,5,hypothesis disconfirmation,correct,3,correct id
+R_bfJobl4GqrKEWA1,50,Prefer not to say,40,170,176,7,no delay,correct,1,correct rejection
+R_2rTIEwumjbkD7AB,50,Female,30,170,176,7,distraction,correct,1,correct rejection
+R_1o5aPPuZqrYDE5o,50,Female,46,176,176,3,distraction,incorrect,1,filler id (tp)
+R_2CrZmn01fxgXqNk,70,Male,28,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2CBpN5H5wrBRkqK,35,Female,24,173,173,5,no delay,correct,1,correct id
+R_1Id8GY152RBFUE5,62,Female,25,170,170,7,distraction,incorrect,2,incorrect rejection
+R_1GKCK2SYgM0j77q,90,Male,34,173,173,5,no delay,correct,3,correct id
+R_daN44Iv5XinC0pj,71,Male,56,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2AHEezKzRK6rHNk,10,Female,51,164,173,1,hypothesis disconfirmation,incorrect,1,filler id (ta)
+R_2S1Yg4atfdu9mI7,50,Male,54,170,176,7,distraction,correct,1,correct rejection
+R_24p9M81VbRFw2t1,80,Female,25,176,170,7,no delay,correct,2,correct rejection
+R_33CqscuP7McBdkW,90,Male,30,173,173,5,distraction,correct,3,correct id
+R_1nO3nrXw9wzVOlk,39,Female,36,170,170,7,no delay,incorrect,1,incorrect rejection
+R_3GdCWKGDfMB4niz,70,Female,28,170,170,3,hypothesis disconfirmation,correct,2,correct id
+R_3QWBI2D84J2nXz5,60,Male,21,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2YmqpFCmPKncCUZ,30,Male,19,173,173,5,distraction,correct,1,correct id
+R_2S31vwwA7q0sP3l,65,Male,28,164,173,7,no delay,correct,2,correct rejection
+R_3oC15v2gFihwsDE,10,Female,23,176,176,6,distraction,correct,1,correct id
+R_1OJFAxOuPpsXBAR,61,Female,24,170,176,6,no delay,incorrect,2,innocent id
+R_3nUE5UIGIeeAgbn,44,Female,23,173,173,5,hypothesis disconfirmation,correct,1,correct id
+R_3njy3dtJyIl60ml,63,Female,22,176,176,6,no delay,correct,2,correct id
+R_3QYrfnftcJbUFlZ,81,Male,24,164,164,7,distraction,incorrect,3,incorrect rejection
+R_1dxXdfujiOwDSY0,85,Male,18,176,170,7,no delay,correct,3,correct rejection
+R_12PZ8oDZYsei3zi,60,Male,25,170,176,7,distraction,correct,2,correct rejection
+R_12m2VFJy2OSGD3p,70,Male,25,173,164,7,hypothesis disconfirmation,correct,2,correct rejection
+R_1rAJYJFWBQfwZL3,56,Male,22,176,176,6,distraction,correct,2,correct id
+R_3hsCo0kXy7cGxaT,80,Male,27,164,164,6,no delay,correct,2,correct id
+R_2U8XknrXhqmc5X2,90,Male,33,164,173,7,hypothesis disconfirmation,correct,3,correct rejection
+R_1kS5oVMNkeSSmQB,75,Female,26,164,173,7,distraction,correct,2,correct rejection
+R_e3gTulQ16AXYb3H,85,Male,24,164,164,7,hypothesis disconfirmation,incorrect,3,incorrect rejection
+R_3hhFdwE4Oh905Uz,90,Female,18,176,170,4,distraction,incorrect,3,filler id (ta)
+R_3F4dTL3HIVQHCxj,67,Male,28,170,170,7,no delay,incorrect,2,incorrect rejection
+R_3foR0bdAQz4y1uY,10,Female,24,176,170,7,hypothesis disconfirmation,correct,1,correct rejection
+R_3Pjbbq20RqZOpW7,31,Female,24,170,176,7,distraction,correct,1,correct rejection
+R_8en6SGbRO3edX1v,93,Female,23,164,164,6,no delay,correct,3,correct id
+R_2TtL7Fi8RjLiu5j,50,Male,24,176,176,7,hypothesis disconfirmation,incorrect,1,incorrect rejection
+R_3Ib3BM4cmSu2H97,81,Female,22,164,173,1,distraction,incorrect,3,filler id (ta)
+R_vfwVm3FHb9BEiAN,72,Female,35,173,173,5,distraction,correct,2,correct id
+R_3QQSKUck4YLsKkn,80,Female,28,176,170,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_3KNP0qkNVgxHFWv,90,Female,26,176,176,6,no delay,correct,3,correct id
+R_pfPVWfnsvdm40Bb,85,Male,30,170,170,3,no delay,correct,3,correct id
+R_pEtWPBJrYOBvPkB,80,Male,20,164,164,2,distraction,incorrect,2,filler id (tp)
+R_1g6myzQJwE4tKw8,75,Female,21,176,170,4,hypothesis disconfirmation,incorrect,2,filler id (ta)
+R_2rdWq9kMBcHJFYZ,80,Male,26,176,176,2,distraction,incorrect,2,filler id (tp)
+R_1jrctYGglx3ZdPb,70,Female,22,176,170,4,distraction,incorrect,2,filler id (ta)
+R_31RSoWOtUQxojXY,0,Female,22,164,164,7,no delay,incorrect,1,incorrect rejection
+R_1P75kJnUOPMfgm7,90,Female,22,176,170,4,no delay,incorrect,3,filler id (ta)
+R_1eDxQwPvCMasHvj,38,Female,24,164,173,7,distraction,correct,1,correct rejection
+R_2eXS4iqMwUWQ0Kv,66,Female,20,173,173,5,no delay,correct,2,correct id
+R_3EMdFOGOaebXvQj,45,Female,21,164,173,7,hypothesis disconfirmation,correct,1,correct rejection
+R_1mDZNVh4NlyaA2y,79,Female,29,170,176,7,hypothesis disconfirmation,correct,2,correct rejection
+R_2tJWDUl2bEx87jD,71,Female,23,176,176,7,no delay,incorrect,2,incorrect rejection
+R_3fcU9fLxaEEtKxv,95,Female,26,164,164,6,distraction,correct,3,correct id
+R_Uu3EFHuLcbjjR3H,60,Female,30,164,164,7,no delay,incorrect,2,incorrect rejection
+R_1FglmPbaUU8lOMN,90,Male,38,176,170,7,hypothesis disconfirmation,correct,3,correct rejection
